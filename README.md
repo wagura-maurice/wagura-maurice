@@ -20,3 +20,7 @@ I'm Wagura Maurice
 [![Maurice's github stats](https://github-readme-stats.vercel.app/api?username=wagura-maurice)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wagura-maurice&hide=TeX&layout=compact)
+
+## Stargazers
+
+[![Stargazers repo roster for @wagura-maurice/wagura-maurice](https://reporoster.com/stars/wagura-maurice/wagura-maurice)](https://github.com/wagura-maurice/wagura-maurice/stargazers)
