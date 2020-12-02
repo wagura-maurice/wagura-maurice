@@ -35,8 +35,8 @@ I'm Wagura Maurice
 </a>
 
 
-<a href="https://github.com/wagura-maurice/e-granary">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wagura-maurice&repo=e-granary&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/wagura-maurice/nodeApp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wagura-maurice&repo=nodeApp&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 ## Stargazers
