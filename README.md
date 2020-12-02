@@ -24,7 +24,7 @@ Hi, I'm [Wagura Maurice](https://waguramaurice.com/).
 </a>
 
 <a href="https://github.com/wagura-maurice/wagura-maurice">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wagura-maurice&show_icons=true&line_height=27&count_private=true&title_color=abd200&text_color=f9f9f9f9&icon_color=70a5fd&bg_color=373f51&"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wagura-maurice&show_icons=true&line_height=30&count_private=true&title_color=abd200&text_color=f9f9f9f9&icon_color=70a5fd&bg_color=373f51&"/>
 </a>
 
 <a href="https://github.com/wagura-maurice/modelcache">
