@@ -35,6 +35,11 @@ Hi, I'm [Wagura Maurice](https://waguramaurice.com/).
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=microsoft&repo=msphpsql&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
+<a href="https://github.com/wagura-maurice">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=montanabay39&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
