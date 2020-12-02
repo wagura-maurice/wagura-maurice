@@ -21,6 +21,24 @@ I'm Wagura Maurice
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wagura-maurice&hide=TeX&layout=compact)
 
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/wagura-maurice/wagura-maurice">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagura-maurice&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/wagura-maurice/wagura-maurice">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wagura-maurice&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Maurice's GitHub Stats" />
+</a>
+
+<a href="https://github.com/wagura-maurice/modelcache">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wagura-maurice&repo=modelcache&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+
+<a href="https://github.com/wagura-maurice/e-granary">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wagura-maurice&repo=e-granary&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
 ## Stargazers
 
-[![Stargazers repo roster for @wagura-maurice/wagura-maurice](https://reporoster.com/stars/wagura-maurice/wagura-maurice)](https://github.com/wagura-maurice/wagura-maurice/stargazers)
+[![Stargazers repo roster for @wagura-maurice/wagura-maurice](https://reporoster.com/stars/wagura-maurice/wagura-maurice)](httpsn://github.com/wagura-maurice/wagura-maurice/stargazers)
