@@ -23,7 +23,7 @@ Hi, I'm [Wagura Maurice](https://waguramaurice.com/).
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagura-maurice&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/wagura-maurice/wagura-maurice">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wagura-maurice&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Maurice's GitHub Activities" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wagura-maurice&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
 </a>
 
 <a href="https://github.com/wagura-maurice/modelcache">
@@ -31,8 +31,8 @@ Hi, I'm [Wagura Maurice](https://waguramaurice.com/).
 </a>
 
 
-<a href="https://github.com/wagura-maurice/nodeApp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wagura-maurice&repo=nodeApp&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/wagura-maurice/msphpsql">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=microsoft&repo=msphpsql&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 ## 🔧 Technologies & Tools
