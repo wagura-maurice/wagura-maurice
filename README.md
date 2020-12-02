@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Wagura Maurice
+
+[![Maurice's github stats](https://github-readme-stats.vercel.app/api?username=wagura-maurice)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wagura-maurice&hide=TeX&layout=compact)
