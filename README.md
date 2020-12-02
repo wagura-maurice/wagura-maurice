@@ -20,23 +20,23 @@ Hi, I'm [Wagura Maurice](https://waguramaurice.com/).
 ## &#x1f4c8; GitHub Statistics
 
 <a href="https://github.com/wagura-maurice/wagura-maurice">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagura-maurice&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagura-maurice&show_icons=true&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&theme=radical"/>
 </a>
 <a href="https://github.com/wagura-maurice/wagura-maurice">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wagura-maurice&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wagura-maurice&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&theme=radical"/>
 </a>
 
 <a href="https://github.com/wagura-maurice/modelcache">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wagura-maurice&repo=modelcache&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wagura-maurice&repo=modelcache&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&theme=radical"/>
 </a>
 
 
 <a href="https://github.com/wagura-maurice/msphpsql">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=microsoft&repo=msphpsql&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=microsoft&repo=msphpsql&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&theme=radical"/>
 </a>
 
 <a href="https://github.com/wagura-maurice">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=montanabay39&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=montanabay39&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&theme=radical"/>
 </a>
 
 
