@@ -31,9 +31,9 @@ Hi, I'm [Wagura Maurice](https://waguramaurice.com/).
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wagura-maurice&repo=modelcache&title_color=abd200&text_color=f9f9f9f9&icon_color=70a5fd&bg_color=373f51&"/>
 </a>
 
-<!-- <a href="https://github.com/wagura-maurice/msphpsql">
+<a href="https://github.com/wagura-maurice/msphpsql">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=microsoft&repo=msphpsql&title_color=abd200&text_color=f9f9f9f9&icon_color=70a5fd&bg_color=373f51&"/>
-</a> -->
+</a>
 
 <a href="https://github.com/wagura-maurice">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=montanabay39&title_color=abd200&text_color=f9f9f9f9&icon_color=70a5fd&bg_color=373f51&"/>
