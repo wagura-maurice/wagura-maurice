@@ -27,7 +27,7 @@ What truly sets me apart is my holistic approach. Not only am I adept at system 
 ---
 
 > 🌐 **Website:** [waguramaurice.com](https://waguramaurice.com/)
-> 📧 **Contact:** maurice@waguramaurice.com
+> 📧 **Contact:** wagura465@gmail.com
 
 
 📍 **Currently**:
