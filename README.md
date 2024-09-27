@@ -91,6 +91,7 @@ What truly sets me apart is my holistic approach. Not only am I adept at system 
 ![Payment - PayPal](https://img.shields.io/badge/Payment-PayPal-informational?style=flat&logo=paypal&color=70a5fd)
 
 [![wakatime](https://wakatime.com/badge/user/a66ab2fa-8365-496b-82f7-fb95c1a4a00b.svg)](https://wakatime.com/@a66ab2fa-8365-496b-82f7-fb95c1a4a00b)
+[![wakatime](https://wakatime.com/badge/bitbucket/wagura-maurice/cloudwage.svg)](https://wakatime.com/badge/bitbucket/wagura-maurice/cloudwage)
 
 
 ## 🌟 Recent Achievements
