@@ -66,23 +66,31 @@ What truly sets me apart is my holistic approach. Not only am I adept at system 
 ## 🔧 Technologies & Tools
 
 ![OS - Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&color=70a5fd)
+
 ![Editor - VS Code](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&color=70a5fd)
+
 ![Code - PHP](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&color=70a5fd)
 ![Code - Vanilla JavaScript](https://img.shields.io/badge/Code-Vanilla_JavaScript-informational?style=flat&logo=javascript&color=70a5fd)
 ![Framework - Laravel](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&color=70a5fd)
 ![Framework - React](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&color=70a5fd)
 ![Framework - Flutter](https://img.shields.io/badge/Framework-Flutter-informational?style=flat&logo=flutter&color=70a5fd)
 ![Framework - React Native](https://img.shields.io/badge/Framework-React_Native-informational?style=flat&logo=react&color=70a5fd)
+
 ![Database - MySQL](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&color=70a5fd)
 ![Database - PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&color=70a5fd)
+
 ![Server - Nginx](https://img.shields.io/badge/Server-Nginx-informational?style=flat&logo=nginx&color=70a5fd)
 ![Tool - Ansible](https://img.shields.io/badge/Tool-Ansible-informational?style=flat&logo=ansible&color=70a5fd)
+
 ![Cloud - AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&color=70a5fd)
 ![Cloud - Digital Ocean](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&color=70a5fd)
 ![CDN - Cloudflare](https://img.shields.io/badge/CDN-Cloudflare-informational?style=flat&logo=cloudflare&color=70a5fd)
+
 ![Payment - Mpesa](https://img.shields.io/badge/Payment-Mpesa-informational?style=flat&logo=safaricom&color=70a5fd)
 ![Payment - Visa](https://img.shields.io/badge/Payment-Visa-informational?style=flat&logo=visa&color=70a5fd)
 ![Payment - PayPal](https://img.shields.io/badge/Payment-PayPal-informational?style=flat&logo=paypal&color=70a5fd)
+
+[![wakatime](https://wakatime.com/badge/user/a66ab2fa-8365-496b-82f7-fb95c1a4a00b.svg)](https://wakatime.com/@a66ab2fa-8365-496b-82f7-fb95c1a4a00b)
 
 
 ## 🌟 Recent Achievements
