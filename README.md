@@ -55,7 +55,7 @@ What truly sets me apart is my holistic approach. Not only am I adept at system 
 
 ## 📊 Coding Activity (WakaTime)
 
-[![Maurice's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wagura-maurice&theme=dark&bg_color=373f51&title_color=abd200&text_color=f9f9f9)](https://wakatime.com/@wagura-maurice)
+[![Maurice's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wagura-maurice&theme=dark&bg_color=373f51&title_color=abd200&text_color=f9f9f9)](https://wakatime.com/@montanabay39)
 
 ---
 
