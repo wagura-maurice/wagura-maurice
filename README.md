@@ -35,34 +35,36 @@ What truly sets me apart is my holistic approach. Not only am I adept at system 
 
 ## &#x1f4c8; GitHub Statistics
 
-<!-- GitHub Stats -->
+<!-- GitHub Stats: Two cards in the same row with space between them -->
 <a href="https://github.com/wagura-maurice/wagura-maurice">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagura-maurice&show_icons=true&hide=html&title_color=abd200&text_color=f9f9f9f9&icon_color=70a5fd&bg_color=373f51&"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagura-maurice&show_icons=true&hide=html&title_color=abd200&text_color=f9f9f9f9&icon_color=70a5fd&bg_color=373f51&" width="49%"/>
 </a>
 <a href="https://github.com/wagura-maurice/wagura-maurice">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wagura-maurice&show_icons=true&count_private=true&title_color=abd200&text_color=f9f9f9f9&icon_color=70a5fd&bg_color=373f51&"/>
-</a>
-<!-- Streak Stats -->
-<a href="https://github.com/wagura-maurice/wagura-maurice">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wagura-maurice&background=373f51&stroke=70a5fd&ring=70a5fd&fire=70a5fd&currStreakLabel=70a5fd"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wagura-maurice&show_icons=true&count_private=true&title_color=abd200&text_color=f9f9f9f9&icon_color=70a5fd&bg_color=373f51&" width="49%"/>
 </a>
 
-<!-- Featured Repos -->
+<br> <!-- Line break -->
+
+<!-- Streak Stats: Full width -->
+<a href="https://github.com/wagura-maurice/wagura-maurice">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wagura-maurice&background=373f51&stroke=70a5fd&ring=70a5fd&fire=70a5fd&currStreakLabel=70a5fd" width="100%"/>
+</a>
+
+<br> <!-- Line break -->
+
+<!-- Featured Repos: Two repos in the same row with space between them -->
 <a href="https://github.com/wagura-maurice/modelcache">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wagura-maurice&repo=modelcache&title_color=abd200&text_color=f9f9f9f9&icon_color=70a5fd&bg_color=373f51&"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wagura-maurice&repo=modelcache&title_color=abd200&text_color=f9f9f9f9&icon_color=70a5fd&bg_color=373f51&" width="49%"/>
 </a>
 <a href="https://github.com/wagura-maurice/msphpsql">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=microsoft&repo=msphpsql&title_color=abd200&text_color=f9f9f9f9&icon_color=70a5fd&bg_color=373f51&"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=microsoft&repo=msphpsql&title_color=abd200&text_color=f9f9f9f9&icon_color=70a5fd&bg_color=373f51&" width="49%"/>
 </a>
 
-<!-- Activity Graph -->
-<a href="https://github.com/wagura-maurice">
-  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=wagura-maurice&theme=dracula"/>
-</a>
+<br> <!-- Line break -->
 
-<!-- Activity Graph -->
+<!-- Activity Graph: Full width -->
 <a href="https://github.com/wagura-maurice">
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=wagura-maurice&theme=dracula&bg_color=373f51&color=70a5fd&line=abd200&point=ffffff&hide_border=true"/>
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=wagura-maurice&theme=dracula&bg_color=373f51&color=70a5fd&line=abd200&point=ffffff&hide_border=true" width="100%"/>
 </a>
 
 ## 📊 Coding Activity (WakaTime)
