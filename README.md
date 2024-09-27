@@ -37,15 +37,27 @@ What truly sets me apart is my holistic approach. Not only am I adept at system 
 
 <!-- GitHub Stats -->
 <a href="https://github.com/wagura-maurice/wagura-maurice">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagura-maurice&show_icons=true&hide=html&title_color=abd200&text_color=f9f9f9f9&icon_color=70a5fd&bg_color=373f51"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagura-maurice&show_icons=true&hide=html&title_color=abd200&text_color=f9f9f9f9&icon_color=70a5fd&bg_color=373f51&"/>
 </a>
 <a href="https://github.com/wagura-maurice/wagura-maurice">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wagura-maurice&show_icons=true&count_private=true&title_color=abd200&text_color=f9f9f9f9&icon_color=70a5fd&bg_color=373f51"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wagura-maurice&show_icons=true&count_private=true&title_color=abd200&text_color=f9f9f9f9&icon_color=70a5fd&bg_color=373f51&"/>
 </a>
-
 <!-- Streak Stats -->
 <a href="https://github.com/wagura-maurice/wagura-maurice">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wagura-maurice&background=373f51&stroke=70a5fd&ring=70a5fd&fire=70a5fd&currStreakLabel=70a5fd"/>
+</a>
+
+<!-- Featured Repos -->
+<a href="https://github.com/wagura-maurice/modelcache">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wagura-maurice&repo=modelcache&title_color=abd200&text_color=f9f9f9f9&icon_color=70a5fd&bg_color=373f51&"/>
+</a>
+<a href="https://github.com/wagura-maurice/msphpsql">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=microsoft&repo=msphpsql&title_color=abd200&text_color=f9f9f9f9&icon_color=70a5fd&bg_color=373f51&"/>
+</a>
+
+<!-- Activity Graph -->
+<a href="https://github.com/wagura-maurice">
+  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=wagura-maurice&theme=dracula"/>
 </a>
 
 <!-- Activity Graph -->
