@@ -83,6 +83,7 @@ class Developer {
   <img title="Rust" src="https://skillicons.dev/icons?i=rust&theme=dark" />
   <img title="C#" src="https://skillicons.dev/icons?i=cs&theme=dark" />
   <img title="Bash / Shell" src="https://skillicons.dev/icons?i=bash&theme=dark" />
+  <img title="PowerShell" src="https://skillicons.dev/icons?i=powershell&theme=dark" />
 </p>
 
 ### ⚙️ Backend & Databases
@@ -99,7 +100,21 @@ class Developer {
   <img title="MySQL" src="https://skillicons.dev/icons?i=mysql&theme=dark" />
   <img title="PostgreSQL" src="https://skillicons.dev/icons?i=postgres&theme=dark" />
   <img title="MongoDB" src="https://skillicons.dev/icons?i=mongodb&theme=dark" />
+  <img title="SQLite" src="https://skillicons.dev/icons?i=sqlite&theme=dark" />
 </p>
+
+### 🧰 Runtimes, Package & Build Tools
+<p align="left">
+  <img title="Bun" src="https://skillicons.dev/icons?i=bun&theme=dark" />
+  <img title="npm" src="https://skillicons.dev/icons?i=npm&theme=dark" />
+  <img title="Yarn" src="https://skillicons.dev/icons?i=yarn&theme=dark" />
+  <img title="pnpm" src="https://skillicons.dev/icons?i=pnpm&theme=dark" />
+  <img title="Composer" height="48" src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white" />
+  <img title="Maven" src="https://skillicons.dev/icons?i=maven&theme=dark" />
+  <img title="Gradle" src="https://skillicons.dev/icons?i=gradle&theme=dark" />
+  <img title="PM2" height="48" src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white" />
+</p>
+<p align="left"><em>Also daily-driven: Laravel Valet, Wrangler (Cloudflare CLI), gulp, ADB (Android SDK), tmux, jq.</em></p>
 
 ### 🛠 DevOps, Tools & Cloud
 <p align="left">
