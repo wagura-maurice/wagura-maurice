@@ -356,19 +356,24 @@ M-Pesa (Safaricom) & MTN mobile money integration • Low-bandwidth mobile-first
 
 ---
 
+<div align="center">
+
 ## 💼 Experience Highlights
 
-| Period | Role | Organization |
-|--------|------|--------------|
-| 2025 – 2026 | Front-end Developer (CRSP / Climate WorX, GoK) | Leewise Limited |
-| 2024 | Trainer / Capacity Building Specialist (NDMA · World Bank) | ISTL / Leewise |
-| 2023 | Senior System Manager | E4Impact Foundation |
-| 2022 – 2023 | Front-end Developer (AGPO, GoK) | Socialight Media |
-| 2019 – 2022 | Senior Software Engineer | Eastern Africa Farmers Federation |
-| 2018 – 2019 | Senior Ruby on Rails Developer | Eclectics International |
-| 2018 | Back-end Software Developer | Flextech Technologies |
-| 2017 – 2018 | Full-stack Web Developer | Wise and Agile Solutions |
-| 2016 | Front-end Web Developer | Presidential Delivery Unit, GoK |
+<table>
+<tr><th>Period</th><th>Role</th><th>Organization</th></tr>
+<tr><td>2025 – 2026</td><td>Front-end Developer (CRSP / Climate WorX, GoK)</td><td>Leewise Limited</td></tr>
+<tr><td>2024</td><td>Trainer / Capacity Building Specialist (NDMA · World Bank)</td><td>ISTL / Leewise</td></tr>
+<tr><td>2023</td><td>Senior System Manager</td><td>E4Impact Foundation</td></tr>
+<tr><td>2022 – 2023</td><td>Front-end Developer (AGPO, GoK)</td><td>Socialight Media</td></tr>
+<tr><td>2019 – 2022</td><td>Senior Software Engineer</td><td>Eastern Africa Farmers Federation</td></tr>
+<tr><td>2018 – 2019</td><td>Senior Ruby on Rails Developer</td><td>Eclectics International</td></tr>
+<tr><td>2018</td><td>Back-end Software Developer</td><td>Flextech Technologies</td></tr>
+<tr><td>2017 – 2018</td><td>Full-stack Web Developer</td><td>Wise and Agile Solutions</td></tr>
+<tr><td>2016</td><td>Front-end Web Developer</td><td>Presidential Delivery Unit, GoK</td></tr>
+</table>
+
+</div>
 
 ---
 
@@ -460,7 +465,9 @@ M-Pesa (Safaricom) & MTN mobile money integration • Low-bandwidth mobile-first
 <p align="center">
   <i>"Build systems you'd trust with a nation's data." 🌌</i>
 </p>
-**Thanks for visiting! ⭐ Star my repos if you find them interesting!**
+<p align="center">
+  <b>Thanks for visiting! ⭐ Star my repos if you find them interesting!</b>
+</p>
 
 </div>
 <div align="center">
