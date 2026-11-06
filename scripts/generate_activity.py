@@ -99,28 +99,25 @@ def main():
             f'fill="#EC4899" opacity="{op:.1f}"/>'
         )
 
-    # mini bars: last 4 weeks activity
-    def bars(x0, color):
-        out = []
-        for w in range(4):
-            wstart = cutoff + timedelta(days=7 * w)
-            wend = wstart + timedelta(days=7)
-            n = sum(v for d, v in per_day.items() if wstart.date() <= d < wend.date())
-            h = 8 + int(67 * n / max_day) if max_day else 8
-            out.append(
-                f'  <rect x="{x0 + w * 14}" y="{145 - h}" width="10" '
-                f'height="{h}" fill="{color}"/>'
-            )
-        return "\n".join(out)
+    def card(x, title, value, change, color):
+        """Landscape metric card: title top, value bottom-left, change bottom-right."""
+        return f"""  <rect x="{x}" y="60" width="250" height="125" rx="8" fill="rgba(255,255,255,0.03)" stroke="rgba(255,255,255,0.12)"/>
+  <rect x="{x}" y="60" width="250" height="125" rx="8" fill="none" stroke="rgba(0,0,0,0.15)"/>
+  <text x="{x + 16}" y="86" class="sans label">{title}</text>
+  <rect x="{x + 16}" y="96" width="36" height="3" rx="1.5" fill="{color}"/>
+  <text x="{x + 16}" y="165" class="sans big" fill="{color}">{value}</text>
+  <text x="{x + 234}" y="150" class="sans delta" fill="#459631" text-anchor="end">{change}</text>
+  <text x="{x + 234}" y="168" class="sans cap" text-anchor="end">vs. past month</text>"""
 
-    def delta(n):
-        return f"▲ +{n}" if n else "— 0"
+    c1 = card(20,  "Issues Opened/Closed", f"{issues_opened}/{issues_closed}", f"▲ {issues_opened} opened", "#61ADF4")
+    c2 = card(282, "Pull Requests Opened", prs, f"▲ {prs} opened", "#CF54FC")
+    c3 = card(544, "Pushes", pushes, f"▲ {pushes} pushes", "#FF7A35")
 
     def repo_rows():
         colors = ["#61ADF4", "#CF54FC", "#FF7A35"]
         out = []
         for i, (repo, n) in enumerate(zip(top_repos, top_counts)):
-            y = 225 + i * 28
+            y = 240 + i * 26
             w = int(400 * n / max_hits) or 4
             out.append(f'  <text x="40" y="{y + 10}" class="mono" fill="#C9D1D9">{esc(repo)}</text>')
             out.append(f'  <rect x="220" y="{y}" width="{w}" height="10" rx="5" fill="{colors[i]}"/>')
@@ -143,25 +140,11 @@ def main():
   <text x="20" y="30" class="sans title">{total} Contributions in the Last {DAYS} Days</text>
 {chr(10).join(cells)}
 
-  <text x="40" y="90" class="sans big" fill="#61ADF4">{issues_opened}/{issues_closed}</text>
-  <text x="40" y="110" class="sans label">Issues Opened/Closed</text>
-  <text x="40" y="128" class="sans delta" fill="#459631">{delta(issues_opened)} opened</text>
-  <text x="40" y="144" class="sans cap">past month</text>
-{bars(160, "#61ADF4")}
+{c1}
+{c2}
+{c3}
 
-  <text x="300" y="90" class="sans big" fill="#CF54FC">{prs}</text>
-  <text x="300" y="110" class="sans label">Pull Requests Opened</text>
-  <text x="300" y="128" class="sans delta" fill="#459631">{delta(prs)} opened</text>
-  <text x="300" y="144" class="sans cap">past month</text>
-{bars(430, "#CF54FC")}
-
-  <text x="560" y="90" class="sans big" fill="#FF7A35">{pushes}</text>
-  <text x="560" y="110" class="sans label">Pushes</text>
-  <text x="560" y="128" class="sans delta" fill="#459631">{delta(pushes)} pushes</text>
-  <text x="560" y="144" class="sans cap">past month</text>
-{bars(680, "#FF7A35")}
-
-  <text x="40" y="190" class="sans title" font-size="16">Most Active Repos</text>
+  <text x="40" y="215" class="sans title" font-size="16">Most Active Repos</text>
 {repo_rows()}
 
   <text x="40" y="312" class="sans cap">Generated {now:%Y-%m-%d %H:%M} UTC from live GitHub events</text>
