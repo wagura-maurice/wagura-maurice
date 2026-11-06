@@ -124,7 +124,7 @@ def main():
             out.append(f'  <text x="630" y="{y + 10}" class="mono" fill="#777">{n} events</text>')
         return "\n".join(out)
 
-    svg = f"""<svg width="814" height="318" viewBox="0 0 814 318" fill="none" xmlns="http://www.w3.org/2000/svg">
+    svg = f"""<svg width="814" height="340" viewBox="0 0 814 340" fill="none" xmlns="http://www.w3.org/2000/svg">
   <style>
     .sans {{ font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }}
     .mono {{ font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace; font-size: 12px; }}
@@ -134,8 +134,8 @@ def main():
     .cap {{ font-size: 11px; fill: #777; }}
     .label {{ font-size: 12px; fill: #C9D1D9; }}
   </style>
-  <rect x="0.5" y="0.5" width="813" height="317" rx="8" stroke="rgba(0,0,0,0.15)" fill="rgba(0,0,0,0)"/>
-  <rect x="0.5" y="0.5" width="813" height="317" rx="8" stroke="rgba(255,255,255,0.15)" fill="rgba(0,0,0,0)"/>
+  <rect x="0.5" y="0.5" width="813" height="339" rx="8" stroke="rgba(0,0,0,0.15)" fill="rgba(0,0,0,0)"/>
+  <rect x="0.5" y="0.5" width="813" height="339" rx="8" stroke="rgba(255,255,255,0.15)" fill="rgba(0,0,0,0)"/>
   <rect x="0.5" y="0.5" width="813" height="47" rx="8" stroke="rgba(255,255,255,0.1)"/>
   <text x="20" y="30" class="sans title">{total} Contributions in the Last {DAYS} Days</text>
 {chr(10).join(cells)}
@@ -147,7 +147,7 @@ def main():
   <text x="40" y="215" class="sans title" font-size="16">Most Active Repos</text>
 {repo_rows()}
 
-  <text x="40" y="312" class="sans cap">Generated {now:%Y-%m-%d %H:%M} UTC from live GitHub events</text>
+  <text x="407" y="330" class="sans cap" text-anchor="middle">Generated {now:%Y-%m-%d %H:%M} UTC from live GitHub events</text>
 </svg>
 """
     os.makedirs(os.path.dirname(OUT), exist_ok=True)
