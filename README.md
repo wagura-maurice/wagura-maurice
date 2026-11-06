@@ -334,6 +334,39 @@ M-Pesa (Safaricom) & MTN mobile money integration • Low-bandwidth mobile-first
 
 ---
 
+<div align="center">
+
+## 💬 Recommendations
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/color/96/000000/quote.png" width="60"/>
+<h3>Savio Wambugu</h3>
+<p><em>Software Engineer at United Nations & Founder, Mt Kenya Hub</em></p>
+<p>"Maurice possesses excellent system analysis and development skills. He's an articulate communicator, thinks logically, and develops creative business solutions to complex problems. Detail-oriented and passionate about coding."</p>
+</td>
+
+<td align="center" width="33%">
+<img src="https://img.icons8.com/color/96/000000/quote.png" width="60"/>
+<h3>Alphonce Juma</h3>
+<p><em>CEO & Founder, Oracom Group</em></p>
+<p>"Maurice proved himself to be an exceptional software engineer. His organizational skills and ability to thrive under pressure stood out."</p>
+</td>
+
+<td align="center" width="33%">
+<img src="https://img.icons8.com/color/96/000000/quote.png" width="60"/>
+<h3>Emily Karechio</h3>
+<p><em>Organizational Development Professional & President, MCDF</em></p>
+<p>"Maurice's intelligence and diligence are commendable. He consistently delivers superior quality work on time and within budget."</p>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
 ## 📰 Publications & Features
 
 - 📝 **[Enhancing Transparency, Traceability, and Market Access for Kenyan Coffee](https://e4impactkenya.org/2023/06/21/enhancing-transparency-traceability-and-market-access-for-kenyan-coffee/)** — E4Impact Kenya (June 2023). Byline on the ARABIKA project: a Kenya–Italy collaboration implementing digital registration & traceability in the coffee supply chain.
