@@ -94,6 +94,8 @@ class Developer {
   <img title="Flask" src="https://skillicons.dev/icons?i=flask&theme=dark" />
   <img title="Node.js" src="https://skillicons.dev/icons?i=nodejs&theme=dark" />
   <img title="Express" src="https://skillicons.dev/icons?i=express&theme=dark" />
+  <img title="Hono" src="https://skillicons.dev/icons?i=hono&theme=dark" />
+  <img title="WordPress" src="https://skillicons.dev/icons?i=wordpress&theme=dark" />
   <img title="MySQL" src="https://skillicons.dev/icons?i=mysql&theme=dark" />
   <img title="PostgreSQL" src="https://skillicons.dev/icons?i=postgres&theme=dark" />
   <img title="MongoDB" src="https://skillicons.dev/icons?i=mongodb&theme=dark" />
@@ -116,14 +118,15 @@ class Developer {
   <img title="Canva" src="https://skillicons.dev/icons?i=canva&theme=dark" />
 </p>
 
-<p align="left"><em>Databases also include SQL Server; API work spans REST & GraphQL; Laravel ecosystem includes Livewire & Inertia.</em></p>
+<p align="left"><em>Databases also include SQL Server; API work spans REST & GraphQL; Laravel ecosystem includes Livewire & Inertia; edge/serverless work on Cloudflare Workers.</em></p>
 
-### 🤖 IoT & Trading
+### 🤖 IoT, Bots & Trading
 <p align="left">
   <img title="Arduino / ESP32" src="https://skillicons.dev/icons?i=arduino&theme=dark" />
   <img title="Raspberry Pi" src="https://skillicons.dev/icons?i=raspberrypi&theme=dark" />
+  <img title="Playwright" src="https://skillicons.dev/icons?i=playwright&theme=dark" />
 </p>
-<p align="left"><em>ESP32/embedded tinkering, plus algorithmic trading bots (MetaTrader 5, Binance APIs).</em></p>
+<p align="left"><em>ESP32/embedded tinkering, Telegram bots, Playwright automation, Africa's Talking WebRTC, plus algorithmic trading bots (MetaTrader 5, Binance & Coinbase APIs).</em></p>
 
 ---
 ## 📌 Featured Projects
