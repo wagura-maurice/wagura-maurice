@@ -62,84 +62,84 @@ class Developer {
 
 ### 🎨 Frontend
 <p align="left">
-  <img title="HTML5" src="https://skillicons.dev/icons?i=html&theme=dark" />
-  <img title="CSS3" src="https://skillicons.dev/icons?i=css&theme=dark" />
-  <img title="JavaScript" src="https://skillicons.dev/icons?i=js&theme=dark" />
-  <img title="React" src="https://skillicons.dev/icons?i=react&theme=dark" />
-  <img title="Vue.js" src="https://skillicons.dev/icons?i=vue&theme=dark" />
-  <img title="jQuery" src="https://skillicons.dev/icons?i=jquery&theme=dark" />
-  <img title="Bootstrap" src="https://skillicons.dev/icons?i=bootstrap&theme=dark" />
-  <img title="Tailwind CSS" src="https://skillicons.dev/icons?i=tailwind&theme=dark" />
-  <img title="Next.js" src="https://skillicons.dev/icons?i=nextjs&theme=dark" />
+  <img title="HTML5" height="28" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img title="CSS3" height="28" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img title="JavaScript" height="28" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img title="React" height="28" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img title="Vue.js" height="28" src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
+  <img title="jQuery" height="28" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+  <img title="Bootstrap" height="28" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img title="Tailwind CSS" height="28" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img title="Next.js" height="28" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 </p>
 
 ### 📱 Mobile
 <p align="left">
-  <img title="React Native" src="https://skillicons.dev/icons?i=react&theme=dark" />
-  <img title="Flutter" src="https://skillicons.dev/icons?i=flutter&theme=dark" />
-  <img title="Android" src="https://skillicons.dev/icons?i=androidstudio&theme=dark" />
+  <img title="React Native" height="28" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img title="Flutter" height="28" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img title="Android" height="28" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=black" />
 </p>
 
 ### 🧠 Languages
 <p align="left">
-  <img title="PHP" src="https://skillicons.dev/icons?i=php&theme=dark" />
-  <img title="JavaScript" src="https://skillicons.dev/icons?i=js&theme=dark" />
-  <img title="TypeScript" src="https://skillicons.dev/icons?i=ts&theme=dark" />
-  <img title="Python" src="https://skillicons.dev/icons?i=python&theme=dark" />
-  <img title="Ruby" src="https://skillicons.dev/icons?i=ruby&theme=dark" />
-  <img title="Java" src="https://skillicons.dev/icons?i=java&theme=dark" />
-  <img title="Kotlin" src="https://skillicons.dev/icons?i=kotlin&theme=dark" />
-  <img title="Dart" src="https://skillicons.dev/icons?i=dart&theme=dark" />
-  <img title="Rust" src="https://skillicons.dev/icons?i=rust&theme=dark" />
-  <img title="C#" src="https://skillicons.dev/icons?i=cs&theme=dark" />
-  <img title="Bash / Shell" src="https://skillicons.dev/icons?i=bash&theme=dark" />
-  <img title="PowerShell" src="https://skillicons.dev/icons?i=powershell&theme=dark" />
+  <img title="PHP" height="28" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img title="JavaScript" height="28" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img title="TypeScript" height="28" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img title="Python" height="28" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img title="Ruby" height="28" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
+  <img title="Java" height="28" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img title="Kotlin" height="28" src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img title="Dart" height="28" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img title="Rust" height="28" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img title="C#" height="28" src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img title="Bash / Shell" height="28" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img title="PowerShell" height="28" src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
 </p>
 
 ### ⚙️ Backend & Databases
 <p align="left">
-  <img title="Laravel" src="https://skillicons.dev/icons?i=laravel&theme=dark" />
+  <img title="Laravel" height="28" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img title="CodeIgniter" height="28" src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" />
-  <img title="Ruby on Rails" src="https://skillicons.dev/icons?i=rails&theme=dark" />
-  <img title="Django" src="https://skillicons.dev/icons?i=django&theme=dark" />
-  <img title="Flask" src="https://skillicons.dev/icons?i=flask&theme=dark" />
-  <img title="Node.js" src="https://skillicons.dev/icons?i=nodejs&theme=dark" />
-  <img title="Express" src="https://skillicons.dev/icons?i=express&theme=dark" />
+  <img title="Ruby on Rails" height="28" src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white" />
+  <img title="Django" height="28" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img title="Flask" height="28" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img title="Node.js" height="28" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img title="Express" height="28" src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img title="Hono" height="28" src="https://img.shields.io/badge/Hono-FF360A?style=for-the-badge&logo=hono&logoColor=white" />
-  <img title="WordPress" src="https://skillicons.dev/icons?i=wordpress&theme=dark" />
-  <img title="MySQL" src="https://skillicons.dev/icons?i=mysql&theme=dark" />
-  <img title="PostgreSQL" src="https://skillicons.dev/icons?i=postgres&theme=dark" />
-  <img title="MongoDB" src="https://skillicons.dev/icons?i=mongodb&theme=dark" />
-  <img title="SQLite" src="https://skillicons.dev/icons?i=sqlite&theme=dark" />
+  <img title="WordPress" height="28" src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img title="MySQL" height="28" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img title="PostgreSQL" height="28" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img title="MongoDB" height="28" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img title="SQLite" height="28" src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
 ### 🧰 Runtimes, Package & Build Tools
 <p align="left">
-  <img title="Bun" src="https://skillicons.dev/icons?i=bun&theme=dark" />
-  <img title="npm" src="https://skillicons.dev/icons?i=npm&theme=dark" />
-  <img title="Yarn" src="https://skillicons.dev/icons?i=yarn&theme=dark" />
-  <img title="pnpm" src="https://skillicons.dev/icons?i=pnpm&theme=dark" />
+  <img title="Bun" height="28" src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" />
+  <img title="npm" height="28" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+  <img title="Yarn" height="28" src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" />
+  <img title="pnpm" height="28" src="https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white" />
   <img title="Composer" height="28" src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white" />
-  <img title="Maven" src="https://skillicons.dev/icons?i=maven&theme=dark" />
-  <img title="Gradle" src="https://skillicons.dev/icons?i=gradle&theme=dark" />
+  <img title="Maven" height="28" src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
+  <img title="Gradle" height="28" src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" />
   <img title="PM2" height="28" src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white" />
 </p>
 <p align="left"><em>Also daily-driven: Laravel Valet, Wrangler (Cloudflare CLI), gulp, ADB (Android SDK), tmux, jq.</em></p>
 
 ### 🛠 DevOps, Tools & Cloud
 <p align="left">
-  <img title="Linux" src="https://skillicons.dev/icons?i=linux&theme=dark" />
-  <img title="Docker" src="https://skillicons.dev/icons?i=docker&theme=dark" />
-  <img title="Nginx" src="https://skillicons.dev/icons?i=nginx&theme=dark" />
-  <img title="Ansible" src="https://skillicons.dev/icons?i=ansible&theme=dark" />
-  <img title="Git" src="https://skillicons.dev/icons?i=git&theme=dark" />
-  <img title="GitHub Actions" src="https://skillicons.dev/icons?i=githubactions&theme=dark" />
-  <img title="AWS" src="https://skillicons.dev/icons?i=aws&theme=dark" />
-  <img title="Azure" src="https://skillicons.dev/icons?i=azure&theme=dark" />
-  <img title="Google Cloud" src="https://skillicons.dev/icons?i=gcp&theme=dark" />
-  <img title="Cloudflare" src="https://skillicons.dev/icons?i=cloudflare&theme=dark" />
-  <img title="Figma" src="https://skillicons.dev/icons?i=figma&theme=dark" />
-  <img title="Photoshop" src="https://skillicons.dev/icons?i=ps&theme=dark" />
+  <img title="Linux" height="28" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img title="Docker" height="28" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img title="Nginx" height="28" src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img title="Ansible" height="28" src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+  <img title="Git" height="28" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img title="GitHub Actions" height="28" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img title="AWS" height="28" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img title="Azure" height="28" src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img title="Google Cloud" height="28" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img title="Cloudflare" height="28" src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img title="Figma" height="28" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img title="Photoshop" height="28" src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
   <img title="Canva" height="28" src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
 </p>
 
@@ -161,9 +161,9 @@ class Developer {
 
 ### 🤖 IoT, Bots & Trading
 <p align="left">
-  <img title="Arduino / ESP32" src="https://skillicons.dev/icons?i=arduino&theme=dark" />
-  <img title="Raspberry Pi" src="https://skillicons.dev/icons?i=raspberrypi&theme=dark" />
-  <img title="Selenium" src="https://skillicons.dev/icons?i=selenium&theme=dark" />
+  <img title="Arduino / ESP32" height="28" src="https://img.shields.io/badge/Arduino%20%2F%20ESP32-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img title="Raspberry Pi" height="28" src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+  <img title="Selenium" height="28" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
 </p>
 <p align="left">
   <img title="Telegram Bots" height="28" src="https://img.shields.io/badge/Telegram%20Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
@@ -424,22 +424,22 @@ M-Pesa (Safaricom) & MTN mobile money integration • Low-bandwidth mobile-first
 
 <p align="center">
   <a href="https://www.linkedin.com/in/wagura-maurice" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
+    <img height="28" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:wagura465@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
+    <img height="28" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/wagura-maurice" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github&theme=dark" />
+    <img height="28" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://gitlab.com/wagura-maurice" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gitlab&theme=dark" />
+    <img height="28" src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
   </a>
   <a href="https://stackoverflow.com/users/5913702/canis-majoris" target="_blank">
-    <img src="https://skillicons.dev/icons?i=stackoverflow&theme=dark" />
+    <img height="28" src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" />
   </a>
   <a href="https://twitter.com/montanabay39" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter&theme=dark" />
+    <img height="28" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 </p>
 
