@@ -60,20 +60,29 @@ class Developer {
   <img title="jQuery" src="https://skillicons.dev/icons?i=jquery&theme=dark" />
   <img title="Bootstrap" src="https://skillicons.dev/icons?i=bootstrap&theme=dark" />
   <img title="Tailwind CSS" src="https://skillicons.dev/icons?i=tailwind&theme=dark" />
+  <img title="Next.js" src="https://skillicons.dev/icons?i=nextjs&theme=dark" />
 </p>
 
 ### 📱 Mobile
 <p align="left">
   <img title="React Native" src="https://skillicons.dev/icons?i=react&theme=dark" />
   <img title="Flutter" src="https://skillicons.dev/icons?i=flutter&theme=dark" />
+  <img title="Android" src="https://skillicons.dev/icons?i=androidstudio&theme=dark" />
 </p>
 
 ### 🧠 Languages
 <p align="left">
   <img title="PHP" src="https://skillicons.dev/icons?i=php&theme=dark" />
   <img title="JavaScript" src="https://skillicons.dev/icons?i=js&theme=dark" />
+  <img title="TypeScript" src="https://skillicons.dev/icons?i=ts&theme=dark" />
   <img title="Python" src="https://skillicons.dev/icons?i=python&theme=dark" />
   <img title="Ruby" src="https://skillicons.dev/icons?i=ruby&theme=dark" />
+  <img title="Java" src="https://skillicons.dev/icons?i=java&theme=dark" />
+  <img title="Kotlin" src="https://skillicons.dev/icons?i=kotlin&theme=dark" />
+  <img title="Dart" src="https://skillicons.dev/icons?i=dart&theme=dark" />
+  <img title="Rust" src="https://skillicons.dev/icons?i=rust&theme=dark" />
+  <img title="C#" src="https://skillicons.dev/icons?i=cs&theme=dark" />
+  <img title="Bash / Shell" src="https://skillicons.dev/icons?i=bash&theme=dark" />
 </p>
 
 ### ⚙️ Backend & Databases
@@ -83,6 +92,8 @@ class Developer {
   <img title="Ruby on Rails" src="https://skillicons.dev/icons?i=rails&theme=dark" />
   <img title="Django" src="https://skillicons.dev/icons?i=django&theme=dark" />
   <img title="Flask" src="https://skillicons.dev/icons?i=flask&theme=dark" />
+  <img title="Node.js" src="https://skillicons.dev/icons?i=nodejs&theme=dark" />
+  <img title="Express" src="https://skillicons.dev/icons?i=express&theme=dark" />
   <img title="MySQL" src="https://skillicons.dev/icons?i=mysql&theme=dark" />
   <img title="PostgreSQL" src="https://skillicons.dev/icons?i=postgres&theme=dark" />
   <img title="MongoDB" src="https://skillicons.dev/icons?i=mongodb&theme=dark" />
@@ -105,7 +116,14 @@ class Developer {
   <img title="Canva" src="https://skillicons.dev/icons?i=canva&theme=dark" />
 </p>
 
-<p align="left"><em>Databases also include SQL Server; API work spans REST & GraphQL.</em></p>
+<p align="left"><em>Databases also include SQL Server; API work spans REST & GraphQL; Laravel ecosystem includes Livewire & Inertia.</em></p>
+
+### 🤖 IoT & Trading
+<p align="left">
+  <img title="Arduino / ESP32" src="https://skillicons.dev/icons?i=arduino&theme=dark" />
+  <img title="Raspberry Pi" src="https://skillicons.dev/icons?i=raspberrypi&theme=dark" />
+</p>
+<p align="left"><em>ESP32/embedded tinkering, plus algorithmic trading bots (MetaTrader 5, Binance APIs).</em></p>
 
 ---
 ## 📌 Featured Projects
