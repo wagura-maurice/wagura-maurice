@@ -332,22 +332,37 @@ M-Pesa (Safaricom) & MTN mobile money integration • Low-bandwidth mobile-first
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="left" width="33%">
 <img src="https://img.icons8.com/color/96/000000/source-code.png" width="80"/>
-<h3>💻 Portal & Front-end Development</h3>
-<p>Responsive, accessible, mobile-first portals and applications with React, Vue, Tailwind and Bootstrap — built to government-grade standards</p>
+<h3 align="center">💻 Portals, Web & Mobile</h3>
+<p>
+• Citizen-facing portals & registration systems (gov-grade, WCAG-aware)<br>
+• Dashboards & data-visualization interfaces (reporting systems, infographics)<br>
+• React · Vue · React Native · Tailwind · Bootstrap<br>
+• Admin panels for screening, shortlisting & content management
+</p>
 </td>
 
-<td align="center" width="33%">
+<td align="left" width="33%">
 <img src="https://img.icons8.com/color/96/000000/cloud.png" width="80"/>
-<h3>⚙️ Back-end & Integrations</h3>
-<p>Robust APIs and secure services with Laravel, Rails, Django and Flask — OAuth 2.0/SSO, REST/GraphQL, and payment gateways (M-Pesa, MTN, Flutterwave)</p>
+<h3 align="center">⚙️ Back-end, Payments & Integrations</h3>
+<p>
+• REST & GraphQL APIs on Laravel · Rails · Django · Flask · Node<br>
+• Mobile money & payments: M-Pesa (Daraja), MTN MoMo, Flutterwave, Paystack, IntaSend, bank APIs<br>
+• OAuth 2.0 / SSO, third-party integrations, eTIMS/iTax<br>
+• SMS/USSD/WebRTC via Africa's Talking; Telegram & automation bots
+</p>
 </td>
 
-<td align="center" width="33%">
+<td align="left" width="33%">
 <img src="https://img.icons8.com/color/96/000000/web-design.png" width="80"/>
-<h3>🚀 DevOps & Delivery</h3>
-<p>Linux administration, Docker, Nginx, Ansible and CI/CD across AWS, Azure and GCP — plus Agile delivery, UAT support and team leadership</p>
+<h3 align="center">🚀 DevOps, Delivery & Enablement</h3>
+<p>
+• Linux, Docker, Nginx, Ansible, CI/CD on AWS · Azure · GCP · Cloudflare Workers<br>
+• WordPress builds & site maintenance<br>
+• Agile delivery, UAT support, technical documentation<br>
+• Team leadership, ToT training & capacity building (World Bank/NGO projects)
+</p>
 </td>
 </tr>
 </table>
