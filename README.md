@@ -1,137 +1,323 @@
-# Maurice Wagura
+<div align="center">
 
-![Maurice's Profile Picture](https://www.gravatar.com/avatar/be2d95a1ec62317ee0f412f65a8a3b59)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Maurice%20Wagura&fontSize=70&fontAlignY=38&desc=Full-Stack%20Engineer%20|%20GovTech%20%26%20FinTech%20|%20Systems%20Architect&descAlignY=55&descAlign=50&animation=fadeIn)
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&repeat=true&width=650&lines=Building+national-scale+web+portals;9%2B+years+of+full-stack+engineering;FinTech+%26+GovTech+specialist;Clean+code+over+clever+code" alt="Typing SVG" />
+
+<p align="center">
+  <a href="https://waguramaurice.com/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/wagura-maurice">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/wagura-maurice">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:wagura465@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+## 🎯 About Me
+</div>
+
+<img align="right" alt="Coding" width="355" src="https://i.pinimg.com/originals/ce/76/0f/ce760fde1800bc12b74dfd67d2a5dcbe.gif">
+
+```js
+class Developer {
+
+  constructor() {
+    this.name = "Maurice Wagura";
+    this.role = "Full-Stack Software Engineer";
+    this.location = "Nairobi, Kenya";
+    this.mindset = "Tailored solutions for real business processes";
+  }
+
+  philosophy() {
+    return "Understand → Build → Secure → Scale";
+  }
+
+}
+```
+<br clear="right"/>
+
+🚀 Current Focus: Front-end & portal engineering for national-scale government platforms<br>
+🌱 Learning Curve: Kubernetes advanced deployments, cloud architecture (AWS · Azure · GCP)<br>
+💡 Core Strengths: Portal development, payment integrations (M-Pesa · MTN · Flutterwave), SSO/OAuth 2.0, system administration<br>
+🎯 Goal: Shipping secure, accessible products that serve tens of thousands of users
+
+---
+## ⚡ Tech Stack
+
+### 🎨 Frontend
+<p align="left">
+  <img title="HTML5" src="https://skillicons.dev/icons?i=html&theme=dark" />
+  <img title="CSS3" src="https://skillicons.dev/icons?i=css&theme=dark" />
+  <img title="JavaScript" src="https://skillicons.dev/icons?i=js&theme=dark" />
+  <img title="React" src="https://skillicons.dev/icons?i=react&theme=dark" />
+  <img title="Vue.js" src="https://skillicons.dev/icons?i=vue&theme=dark" />
+  <img title="jQuery" src="https://skillicons.dev/icons?i=jquery&theme=dark" />
+  <img title="Bootstrap" src="https://skillicons.dev/icons?i=bootstrap&theme=dark" />
+  <img title="Tailwind CSS" src="https://skillicons.dev/icons?i=tailwind&theme=dark" />
+</p>
+
+### 📱 Mobile
+<p align="left">
+  <img title="React Native" src="https://skillicons.dev/icons?i=react&theme=dark" />
+  <img title="Flutter" src="https://skillicons.dev/icons?i=flutter&theme=dark" />
+</p>
+
+### 🧠 Languages
+<p align="left">
+  <img title="PHP" src="https://skillicons.dev/icons?i=php&theme=dark" />
+  <img title="JavaScript" src="https://skillicons.dev/icons?i=js&theme=dark" />
+  <img title="Python" src="https://skillicons.dev/icons?i=python&theme=dark" />
+  <img title="Ruby" src="https://skillicons.dev/icons?i=ruby&theme=dark" />
+</p>
+
+### ⚙️ Backend & Databases
+<p align="left">
+  <img title="Laravel" src="https://skillicons.dev/icons?i=laravel&theme=dark" />
+  <img title="CodeIgniter" src="https://skillicons.dev/icons?i=codeigniter&theme=dark" />
+  <img title="Ruby on Rails" src="https://skillicons.dev/icons?i=rails&theme=dark" />
+  <img title="Django" src="https://skillicons.dev/icons?i=django&theme=dark" />
+  <img title="Flask" src="https://skillicons.dev/icons?i=flask&theme=dark" />
+  <img title="MySQL" src="https://skillicons.dev/icons?i=mysql&theme=dark" />
+  <img title="PostgreSQL" src="https://skillicons.dev/icons?i=postgres&theme=dark" />
+  <img title="MongoDB" src="https://skillicons.dev/icons?i=mongodb&theme=dark" />
+</p>
+
+### 🛠 DevOps, Tools & Cloud
+<p align="left">
+  <img title="Linux" src="https://skillicons.dev/icons?i=linux&theme=dark" />
+  <img title="Docker" src="https://skillicons.dev/icons?i=docker&theme=dark" />
+  <img title="Nginx" src="https://skillicons.dev/icons?i=nginx&theme=dark" />
+  <img title="Ansible" src="https://skillicons.dev/icons?i=ansible&theme=dark" />
+  <img title="Git" src="https://skillicons.dev/icons?i=git&theme=dark" />
+  <img title="GitHub Actions" src="https://skillicons.dev/icons?i=githubactions&theme=dark" />
+  <img title="AWS" src="https://skillicons.dev/icons?i=aws&theme=dark" />
+  <img title="Azure" src="https://skillicons.dev/icons?i=azure&theme=dark" />
+  <img title="Google Cloud" src="https://skillicons.dev/icons?i=gcp&theme=dark" />
+  <img title="Cloudflare" src="https://skillicons.dev/icons?i=cloudflare&theme=dark" />
+  <img title="Figma" src="https://skillicons.dev/icons?i=figma&theme=dark" />
+</p>
+
+---
+## 📌 Featured Projects
+
+<div align="center">
+
+### 🌍 Climate Resilience Service Program (CRSP)
+
+**Public-facing onboarding and registration portal for the Government of Kenya's Climate WorX initiative** — combining urban environmental restoration with employment for tens of thousands of youth nationwide.
+
+**Highlights:**
+Mobile-first registration & onboarding • Secure applicant data capture & validation • Admin screening & shortlisting dashboards • REST API integration
+
+**Tech:** JavaScript • Laravel • MySQL • REST APIs • Linux • Nginx
+
+<p>
+  <a href="https://crsp.go.ke">
+    <img src="https://img.shields.io/badge/🌐_Live_Site-3B82F6?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 🚀 About Me
+### 🏛 Access to Government Procurement Opportunities (AGPO)
 
-Hi, I'm [Maurice](https://waguramaurice.com/), a highly skilled full-stack software engineer based in Nairobi, Kenya. With over 5 years of experience, I've been pivotal in sculpting innovative products and tools for both budding startups and renowned software development agencies.
+**Front-end engineering on the Government of Kenya's AGPO portal** — serving youth, women and persons with disabilities seeking public procurement opportunities.
 
-I'm fueled by my passion for understanding the nuances of business processes and am devoted to creating tailored application solutions that champion efficiency. My relentless curiosity for technology, entrepreneurship, and innovation means I'm constantly evolving and learning.
+**Highlights:**
+Responsive, accessible UI (WCAG-aligned) • UI defect resolution & feature updates • Government web standards compliance
 
-What truly sets me apart is my holistic approach. Not only am I adept at system administration and project management, but I also possess a rich expertise in cutting-edge technologies including PHP, JavaScript, and the Laravel framework. This blend of skills, combined with my unwavering commitment to delivering quality, positions me as a distinctive asset in the realm of software development.
+**Tech:** JavaScript • HTML5/CSS3 • Bootstrap
 
----
-
-## 🔥 Top Skills
-
-- **System Administration**
-- **PHP**
-- **Project Management**
-- **Laravel Framework**
-- **JavaScript**
+<p>
+  <a href="https://agpo.go.ke">
+    <img src="https://img.shields.io/badge/🌐_Live_Site-3B82F6?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-> 🌐 **Website:** [waguramaurice.com](https://waguramaurice.com/)
-> 📧 **Contact:** wagura465@gmail.com
+### 📊 Government Progress Reporting System
 
-📍 **Currently**:
-- 📚 Learning: Kubernetes Advanced Deployments
-- 🎯 Goal: Contribute to Open Source Projects
-- 📝 Blogging: Check out my [latest blog posts](#)
-- ✉️ Contact me: [Email](mailto:wagura465@gmail.com)
+**Front-end development for the Presidential Delivery Unit's public reporting portal (delivery.go.ke)** — interactive analytics bringing transparency to government performance data.
 
-## &#x1f4c8; GitHub Statistics
+**Highlights:**
+Interactive data-visualization dashboards • Analytical infographics • Citizen-facing accessible interfaces
 
-<!-- GitHub Stats: Two cards in the same row with space between them -->
-<a href="https://github.com/wagura-maurice/wagura-maurice">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagura-maurice&show_icons=true&hide=html&title_color=abd200&text_color=f9f9f9f9&icon_color=70a5fd&bg_color=373f51&" width="49%"/>
-</a>
-<a href="https://github.com/wagura-maurice/wagura-maurice">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wagura-maurice&show_icons=true&count_private=true&title_color=abd200&text_color=f9f9f9f9&icon_color=70a5fd&bg_color=373f51&" width="49%"/>
-</a>
-
-<br> <!-- Line break -->
-
-<!-- Streak Stats: Full width -->
-<a href="https://github.com/wagura-maurice/wagura-maurice">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wagura-maurice&background=373f51&stroke=70a5fd&ring=70a5fd&fire=70a5fd&currStreakLabel=70a5fd" width="100%"/>
-</a>
-
-<br> <!-- Line break -->
-
-<!-- Featured Repos: Two repos in the same row with space between them -->
-<a href="https://github.com/wagura-maurice/modelcache">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wagura-maurice&repo=modelcache&title_color=abd200&text_color=f9f9f9f9&icon_color=70a5fd&bg_color=373f51&" width="49%"/>
-</a>
-<a href="https://github.com/wagura-maurice/msphpsql">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=microsoft&repo=msphpsql&title_color=abd200&text_color=f9f9f9f9&icon_color=70a5fd&bg_color=373f51&" width="49%"/>
-</a>
-
-<br> <!-- Line break -->
-
-<!-- Activity Graph: Full width -->
-<a href="https://github.com/wagura-maurice">
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=wagura-maurice&theme=dracula&bg_color=373f51&color=70a5fd&line=abd200&point=ffffff&hide_border=true" width="100%"/>
-</a>
-
-## 📊 Coding Activity (WakaTime)
-
-[![Maurice's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=montanabay39&theme=dark&bg_color=373f51&title_color=abd200&text_color=f9f9f9)](https://wakatime.com/@montanabay39)
+**Tech:** JavaScript • HTML5/CSS3 • Data Visualization
 
 ---
 
-## 🔧 Technologies & Tools
+### ☕ Coffee Value Chain Platform — E4Impact
 
-![OS - Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&color=70a5fd)
+**Production-grade digital platform for the coffee value chain** — a secure, responsive portal connecting farmers, buyers and administrators across the region.
 
-![Editor - VS Code](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&color=70a5fd)
+**Highlights:**
+End-to-end platform architecture • GDPR-compliant data handling • Third-party API & vendor integrations • Led a multidisciplinary engineering team
 
-![Code - PHP](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&color=70a5fd)
-![Code - Vanilla JavaScript](https://img.shields.io/badge/Code-Vanilla_JavaScript-informational?style=flat&logo=javascript&color=70a5fd)
-![Framework - Laravel](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&color=70a5fd)
-![Framework - React](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&color=70a5fd)
-![Framework - Flutter](https://img.shields.io/badge/Framework-Flutter-informational?style=flat&logo=flutter&color=70a5fd)
-![Framework - React Native](https://img.shields.io/badge/Framework-React_Native-informational?style=flat&logo=react&color=70a5fd)
+**Tech:** PHP • Laravel • JavaScript • MySQL • Docker
 
-![Database - MySQL](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&color=70a5fd)
-![Database - PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&color=70a5fd)
-
-![Server - Nginx](https://img.shields.io/badge/Server-Nginx-informational?style=flat&logo=nginx&color=70a5fd)
-![Tool - Ansible](https://img.shields.io/badge/Tool-Ansible-informational?style=flat&logo=ansible&color=70a5fd)
-
-![Cloud - AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&color=70a5fd)
-![Cloud - Digital Ocean](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&color=70a5fd)
-![CDN - Cloudflare](https://img.shields.io/badge/CDN-Cloudflare-informational?style=flat&logo=cloudflare&color=70a5fd)
-
-![Payment - Mpesa](https://img.shields.io/badge/Payment-Mpesa-informational?style=flat&logo=safaricom&color=70a5fd)
-![Payment - Visa](https://img.shields.io/badge/Payment-Visa-informational?style=flat&logo=visa&color=70a5fd)
-![Payment - PayPal](https://img.shields.io/badge/Payment-PayPal-informational?style=flat&logo=paypal&color=70a5fd)
-
-[![wakatime](https://wakatime.com/badge/user/a66ab2fa-8365-496b-82f7-fb95c1a4a00b.svg)](https://wakatime.com/@a66ab2fa-8365-496b-82f7-fb95c1a4a00b)
+<p>
+  <a href="https://e4impactkenya.org/">
+    <img src="https://img.shields.io/badge/🌐_Live_Site-3B82F6?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 🌟 Recent Achievements
+### 💳 Mobile Payment Gateway — EAFF
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=wagura-maurice&theme=matrix&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+**Secure mobile money disbursement gateway for the Eastern Africa Farmers Federation** — powering safe payments to farmers across the region.
 
-## 🌌 Stargazers
+**Highlights:**
+M-Pesa (Safaricom) & MTN mobile money integration • Low-bandwidth mobile-first design • E-extension field tools
 
-[![Stargazers repo roster for @wagura-maurice/wagura-maurice](https://reporoster.com/stars/wagura-maurice/wagura-maurice)](https://github.com/wagura-maurice/wagura-maurice/stargazers)
+**Tech:** PHP • REST APIs • M-Pesa API • MTN API
+
+</div>
+
+<div align="center">
+
+# 📊 GitHub Analytics Dashboard
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=wagura-maurice&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=false&width=435&lines=Full+Stack+Engineer+%F0%9F%9A%80;GovTech+%26+FinTech+%F0%9F%8F%9B%EF%B8%8F;Open+Source+Enthusiast+%E2%AD%90;Code+%7C+Create+%7C+Innovate+%F0%9F%92%A1" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wagura-maurice&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wagura-maurice&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagura-maurice&layout=compact&theme=tokyonight&hide_border=true&hide=html" />
+  <img src="https://i.pinimg.com/originals/c7/54/ea/c754eacf0e5eaf8f1448a3d54f820b02.gif" width="190" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wagura-maurice&theme=tokyo-night&hide_border=true" width="100%" />
+</p>
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/wagura-maurice/wagura-maurice/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
-## 👥 Recommendations
+## 🏆 Achievements & Milestones
 
-- **Savio Wambugu**, Software Engineer at United Nations & Founder Mt Kenya Hub:
-  > "Maurice possesses excellent system analysis and development skills. He's an articulate communicator, thinks logically, and develops creative business solutions to complex problems. Maurice is detail-oriented and passionate about coding."
+<table>
+<tr>
+<td align="center">
+<img src="https://img.icons8.com/color/96/000000/trophy.png" width="60"/>
+<br><strong>Experience</strong>
+<br><h2>9+</h2>
+<p>Years in Software</p>
+</td>
+<td align="center">
+<img src="https://img.icons8.com/color/96/000000/code.png" width="60"/>
+<br><strong>Platforms</strong>
+<br><h2>12+</h2>
+<p>Portals & Apps Shipped</p>
+</td>
+<td align="center">
+<img src="https://img.icons8.com/color/96/000000/star.png" width="60"/>
+<br><strong>Certifications</strong>
+<br><h2>3</h2>
+<p>HackerRank Certified</p>
+</td>
+<td align="center">
+<img src="https://img.icons8.com/color/96/000000/globe.png" width="60"/>
+<br><strong>Gov Portals</strong>
+<br><h2>3</h2>
+<p>National-Scale Systems</p>
+</td>
+</tr>
+</table>
 
-- **Alphonce Juma**, CEO & Founder at Oracom Group:
-  > "Maurice proved himself to be an exceptional software engineer. His organizational skills and ability to thrive under pressure stood out."
+</div>
 
-- **Emily KARECHIO**, Organizational Development Professional:
-  > "Maurice's intelligence and diligence are commendable. He consistently delivers superior quality work on time and within budget."
+---
+<div align="center">
+
+## 💼 What I Offer
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/color/96/000000/source-code.png" width="80"/>
+<h3>💻 Portal & Front-end Development</h3>
+<p>Responsive, accessible, mobile-first portals and applications with React, Vue, Tailwind and Bootstrap — built to government-grade standards</p>
+</td>
+
+<td align="center" width="33%">
+<img src="https://img.icons8.com/color/96/000000/cloud.png" width="80"/>
+<h3>⚙️ Back-end & Integrations</h3>
+<p>Robust APIs and secure services with Laravel, Rails, Django and Flask — OAuth 2.0/SSO, REST/GraphQL, and payment gateways (M-Pesa, MTN, Flutterwave)</p>
+</td>
+
+<td align="center" width="33%">
+<img src="https://img.icons8.com/color/96/000000/web-design.png" width="80"/>
+<h3>🚀 DevOps & Delivery</h3>
+<p>Linux administration, Docker, Nginx, Ansible and CI/CD across AWS, Azure and GCP — plus Agile delivery, UAT support and team leadership</p>
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-💬 **Connect with me**: 
+## 💼 Experience Highlights
 
-[![LinkedIn Badge](https://img.shields.io/badge/-WaguraMaurice-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wagura-maurice/)](https://www.linkedin.com/in/waguramaurice/)
-[![Twitter Badge](https://img.shields.io/badge/-@montanabay39-00acee?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/montanabay39)](https://twitter.com/montanabay39)
+| Period | Role | Organization |
+|--------|------|--------------|
+| 2025 – 2026 | Front-end Developer (CRSP / Climate WorX, GoK) | Leewise Limited |
+| 2024 | Trainer / Capacity Building Specialist (NDMA · World Bank) | ISTL / Leewise |
+| 2023 | Senior System Manager | E4Impact Foundation |
+| 2022 – 2023 | Front-end Developer (AGPO, GoK) | Socialight Media |
+| 2019 – 2022 | Senior Software Engineer | Eastern Africa Farmers Federation |
+| 2018 – 2019 | Senior Ruby on Rails Developer | Eclectics International |
+| 2018 | Back-end Software Developer | Flextech Technologies |
+| 2017 – 2018 | Full-stack Web Developer | Wise and Agile Solutions |
+| 2016 | Front-end Web Developer | Presidential Delivery Unit, GoK |
 
 ---
 
-![](https://visitor-badge.glitch.me/badge?page_id=wagura-maurice.wagura-maurice)
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/wagura-maurice" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
+  </a>
+  <a href="mailto:wagura465@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
+  </a>
+  <a href="https://github.com/wagura-maurice" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" />
+  </a>
+  <a href="https://twitter.com/montanabay39" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter&theme=dark" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Build systems you'd trust with a nation's data." 🌌</i>
+</p>
+**Thanks for visiting! ⭐ Star my repos if you find them interesting!**
+
+</div>
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+
+</div>
