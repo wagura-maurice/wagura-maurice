@@ -88,13 +88,13 @@ class Developer {
 ### ⚙️ Backend & Databases
 <p align="left">
   <img title="Laravel" src="https://skillicons.dev/icons?i=laravel&theme=dark" />
-  <img title="CodeIgniter" src="https://skillicons.dev/icons?i=codeigniter&theme=dark" />
+  <img title="CodeIgniter" height="48" src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" />
   <img title="Ruby on Rails" src="https://skillicons.dev/icons?i=rails&theme=dark" />
   <img title="Django" src="https://skillicons.dev/icons?i=django&theme=dark" />
   <img title="Flask" src="https://skillicons.dev/icons?i=flask&theme=dark" />
   <img title="Node.js" src="https://skillicons.dev/icons?i=nodejs&theme=dark" />
   <img title="Express" src="https://skillicons.dev/icons?i=express&theme=dark" />
-  <img title="Hono" src="https://skillicons.dev/icons?i=hono&theme=dark" />
+  <img title="Hono" height="48" src="https://img.shields.io/badge/Hono-FF360A?style=for-the-badge&logo=hono&logoColor=white" />
   <img title="WordPress" src="https://skillicons.dev/icons?i=wordpress&theme=dark" />
   <img title="MySQL" src="https://skillicons.dev/icons?i=mysql&theme=dark" />
   <img title="PostgreSQL" src="https://skillicons.dev/icons?i=postgres&theme=dark" />
@@ -115,7 +115,7 @@ class Developer {
   <img title="Cloudflare" src="https://skillicons.dev/icons?i=cloudflare&theme=dark" />
   <img title="Figma" src="https://skillicons.dev/icons?i=figma&theme=dark" />
   <img title="Photoshop" src="https://skillicons.dev/icons?i=ps&theme=dark" />
-  <img title="Canva" src="https://skillicons.dev/icons?i=canva&theme=dark" />
+  <img title="Canva" height="48" src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
 </p>
 
 <p align="left"><em>Databases also include SQL Server; API work spans REST & GraphQL; Laravel ecosystem includes Livewire & Inertia; edge/serverless work on Cloudflare Workers.</em></p>
@@ -124,7 +124,7 @@ class Developer {
 <p align="left">
   <img title="Arduino / ESP32" src="https://skillicons.dev/icons?i=arduino&theme=dark" />
   <img title="Raspberry Pi" src="https://skillicons.dev/icons?i=raspberrypi&theme=dark" />
-  <img title="Playwright" src="https://skillicons.dev/icons?i=playwright&theme=dark" />
+  <img title="Playwright" height="48" src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
 </p>
 <p align="left"><em>ESP32/embedded tinkering, Telegram bots, Playwright automation, Africa's Talking WebRTC, plus algorithmic trading bots (MetaTrader 5, Binance & Coinbase APIs).</em></p>
 
