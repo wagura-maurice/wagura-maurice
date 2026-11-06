@@ -124,9 +124,10 @@ class Developer {
 <p align="left">
   <img title="Arduino / ESP32" src="https://skillicons.dev/icons?i=arduino&theme=dark" />
   <img title="Raspberry Pi" src="https://skillicons.dev/icons?i=raspberrypi&theme=dark" />
+  <img title="Selenium" src="https://skillicons.dev/icons?i=selenium&theme=dark" />
   <img title="Playwright" height="48" src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
 </p>
-<p align="left"><em>ESP32/embedded tinkering, Telegram bots, Playwright automation, Africa's Talking WebRTC, plus algorithmic trading bots (MetaTrader 5, Binance & Coinbase APIs).</em></p>
+<p align="left"><em>ESP32/embedded tinkering, Telegram bots, Selenium & Playwright automation, Africa's Talking WebRTC, plus algorithmic trading bots (MetaTrader 5, Binance & Coinbase APIs).</em></p>
 
 ---
 ## 📌 Featured Projects
