@@ -147,28 +147,32 @@ class Developer {
 
 ### 💳 Payments & Kenyan Integrations
 <p align="left">
-  <img title="M-Pesa (Safaricom Daraja)" height="28" src="https://img.shields.io/badge/M--Pesa%20(Daraja)-4CAF50?style=for-the-badge&logo=safari&logoColor=white" />
-  <img title="Equity Bank" height="28" src="https://img.shields.io/badge/Equity%20Bank-8B0000?style=for-the-badge&logo=equity&logoColor=white" />
-  <img title="Co-operative Bank" height="28" src="https://img.shields.io/badge/Co--op%20Bank-007A33?style=for-the-badge" />
-  <img title="KCB Bank" height="28" src="https://img.shields.io/badge/KCB%20Bank-0066B3?style=for-the-badge" />
-  <img title="Flutterwave" height="28" src="https://img.shields.io/badge/Flutterwave-F5A623?style=for-the-badge&logo=flutterwave&logoColor=white" />
-  <img title="Paystack" height="28" src="https://img.shields.io/badge/Paystack-00C3F7?style=for-the-badge&logo=paystack&logoColor=white" />
-  <img title="IntaSend" height="28" src="https://img.shields.io/badge/IntaSend-1B7FE0?style=for-the-badge" />
-  <img title="MTN Mobile Money" height="28" src="https://img.shields.io/badge/MTN%20MoMo-FFCC00?style=for-the-badge&logoColor=black" />
-</p>
-<p align="left">
-  <img title="KRA (iTax / eTIMS)" height="28" src="https://img.shields.io/badge/KRA%20(iTax%2FeTIMS)-B31942?style=for-the-badge" />
-  <img title="Africa's Talking" height="28" src="https://img.shields.io/badge/Africa's%20Talking-F58220?style=for-the-badge" />
+  <img title="M-Pesa (Safaricom Daraja)" width="48" src="https://img.icons8.com/color/96/000000/mpesa.png" />
+  <img title="Equity Bank" src="assets/icons/equity.svg" />
+  <img title="Co-operative Bank" src="assets/icons/coopbank.svg" />
+  <img title="KCB Bank" src="assets/icons/kcb.svg" />
+  <img title="Flutterwave" src="assets/icons/flutterwave.svg" />
+  <img title="Paystack" src="assets/icons/paystack.svg" />
+  <img title="IntaSend" src="assets/icons/intasend.svg" />
+  <img title="MTN Mobile Money" src="assets/icons/mtn.svg" />
+  <img title="KRA (iTax / eTIMS)" src="assets/icons/kra.svg" />
+  <img title="Africa's Talking" src="assets/icons/africastalking.svg" />
 </p>
 
 ### 🤖 IoT, Bots & Trading
 <p align="left">
-  <img title="Arduino / ESP32" src="https://skillicons.dev/icons?i=arduino&theme=dark" />
+  <img title="Arduino" src="https://skillicons.dev/icons?i=arduino&theme=dark" />
+  <img title="ESP32" src="assets/icons/esp32.svg" />
   <img title="Raspberry Pi" src="https://skillicons.dev/icons?i=raspberrypi&theme=dark" />
+  <img title="Telegram bots" src="https://skillicons.dev/icons?i=telegram&theme=dark" />
   <img title="Selenium" src="https://skillicons.dev/icons?i=selenium&theme=dark" />
-  <img title="Playwright" height="48" src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+  <img title="Playwright" src="assets/icons/playwright.svg" />
+  <img title="Africa's Talking WebRTC" src="assets/icons/africastalking.svg" />
+  <img title="MetaTrader 5" src="assets/icons/metatrader.svg" />
+  <img title="Binance API" height="48" src="https://cdn.simpleicons.org/binance" />
+  <img title="Coinbase API" height="48" src="https://cdn.simpleicons.org/coinbase" />
 </p>
-<p align="left"><em>ESP32/embedded tinkering, Telegram bots, Selenium & Playwright automation, Africa's Talking WebRTC, plus algorithmic trading bots (MetaTrader 5, Binance & Coinbase APIs).</em></p>
+<p align="left"><em>Embedded tinkering, bot automation, telco integrations & algorithmic trading.</em></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
