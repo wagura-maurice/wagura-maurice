@@ -295,6 +295,14 @@ M-Pesa (Safaricom) & MTN mobile money integration • Low-bandwidth mobile-first
 
 ---
 
+## 📰 Publications & Features
+
+- 📝 **[Enhancing Transparency, Traceability, and Market Access for Kenyan Coffee](https://e4impactkenya.org/2023/06/21/enhancing-transparency-traceability-and-market-access-for-kenyan-coffee/)** — E4Impact Kenya (June 2023). Byline on the ARABIKA project: a Kenya–Italy collaboration implementing digital registration & traceability in the coffee supply chain.
+- 👥 **[E4Impact Entrepreneurship Center Kenya — Team](https://e4impactkenya.org/team/maurice-wagura/)** — Listed as Senior Software Engineer & System Manager.
+- 🔬 **[UPSCALE Project](https://www.upscale.biozentrum.uni-wuerzburg.de/Project/Team.aspx)** — University of Würzburg research consortium; EAFF counterpart (Work Package 1).
+
+---
+
 ## 🎓 Education & Certifications
 
 - **Bachelor of Business Information Technology** — Kenya Methodist University (2016), Second Class Honours (Upper Division)
@@ -314,8 +322,26 @@ M-Pesa (Safaricom) & MTN mobile money integration • Low-bandwidth mobile-first
   <a href="https://github.com/wagura-maurice" target="_blank">
     <img src="https://skillicons.dev/icons?i=github&theme=dark" />
   </a>
+  <a href="https://gitlab.com/wagura-maurice" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gitlab&theme=dark" />
+  </a>
+  <a href="https://stackoverflow.com/users/5913702/canis-majoris" target="_blank">
+    <img src="https://skillicons.dev/icons?i=stackoverflow&theme=dark" />
+  </a>
   <a href="https://twitter.com/montanabay39" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter&theme=dark" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.mixcloud.com/montanabay39/">
+    <img src="https://img.shields.io/badge/Mixcloud-@montanabay39-5000FF?style=for-the-badge&logo=mixcloud&logoColor=white" />
+  </a>
+  <a href="https://audiomack.com/montanabay39">
+    <img src="https://img.shields.io/badge/Audiomack-@montanabay39-FFA200?style=for-the-badge&logo=audiomack&logoColor=white" />
+  </a>
+  <a href="https://remoteok.com/@montanabay39">
+    <img src="https://img.shields.io/badge/RemoteOK-@montanabay39-FF5A5F?style=for-the-badge" />
   </a>
 </p>
 
