@@ -234,17 +234,18 @@ M-Pesa (Safaricom) & MTN mobile money integration • Low-bandwidth mobile-first
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wagura-maurice&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wagura-maurice&theme=tokyonight" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wagura-maurice&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagura-maurice&layout=compact&theme=tokyonight&hide_border=true&hide=html" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wagura-maurice&theme=tokyonight" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wagura-maurice&theme=tokyonight" height="165" />
   <img src="https://i.pinimg.com/originals/c7/54/ea/c754eacf0e5eaf8f1448a3d54f820b02.gif" width="190" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wagura-maurice&theme=tokyo-night&hide_border=true" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wagura-maurice&theme=tokyonight" width="100%" />
 </p>
 
 ## 🐍 Contribution Snake
