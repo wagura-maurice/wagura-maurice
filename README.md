@@ -101,7 +101,11 @@ class Developer {
   <img title="Google Cloud" src="https://skillicons.dev/icons?i=gcp&theme=dark" />
   <img title="Cloudflare" src="https://skillicons.dev/icons?i=cloudflare&theme=dark" />
   <img title="Figma" src="https://skillicons.dev/icons?i=figma&theme=dark" />
+  <img title="Photoshop" src="https://skillicons.dev/icons?i=ps&theme=dark" />
+  <img title="Canva" src="https://skillicons.dev/icons?i=canva&theme=dark" />
 </p>
+
+<p align="left"><em>Databases also include SQL Server; API work spans REST & GraphQL.</em></p>
 
 ---
 ## 📌 Featured Projects
@@ -288,6 +292,13 @@ M-Pesa (Safaricom) & MTN mobile money integration • Low-bandwidth mobile-first
 | 2018 | Back-end Software Developer | Flextech Technologies |
 | 2017 – 2018 | Full-stack Web Developer | Wise and Agile Solutions |
 | 2016 | Front-end Web Developer | Presidential Delivery Unit, GoK |
+
+---
+
+## 🎓 Education & Certifications
+
+- **Bachelor of Business Information Technology** — Kenya Methodist University (2016), Second Class Honours (Upper Division)
+- **HackerRank Certifications** — Software Engineer · JavaScript · SQL
 
 ---
 
