@@ -19,6 +19,15 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=wagura-maurice&color=3B82F6&style=for-the-badge&label=PROFILE+VIEWS" />
+  <a href="https://github.com/wagura-maurice?tab=followers">
+    <img src="https://img.shields.io/github/followers/wagura-maurice?style=for-the-badge&logo=github&label=Followers" />
+  </a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
 ## 🎯 About Me
 </div>
 
@@ -47,7 +56,8 @@ class Developer {
 💡 Core Strengths: Portal development, payment integrations (M-Pesa · MTN · Flutterwave), SSO/OAuth 2.0, system administration<br>
 🎯 Goal: Shipping secure, accessible products that serve tens of thousands of users
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
 ## ⚡ Tech Stack
 
 ### 🎨 Frontend
@@ -160,7 +170,8 @@ class Developer {
 </p>
 <p align="left"><em>ESP32/embedded tinkering, Telegram bots, Selenium & Playwright automation, Africa's Talking WebRTC, plus algorithmic trading bots (MetaTrader 5, Binance & Coinbase APIs).</em></p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
 ## 📌 Featured Projects
 
 <div align="center">
@@ -251,12 +262,13 @@ M-Pesa (Safaricom) & MTN mobile money integration • Low-bandwidth mobile-first
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wagura-maurice&theme=tokyonight" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wagura-maurice&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://i.pinimg.com/originals/c7/54/ea/c754eacf0e5eaf8f1448a3d54f820b02.gif" width="190" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wagura-maurice&theme=tokyonight" height="165" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wagura-maurice&theme=tokyonight" height="165" />
-  <img src="https://i.pinimg.com/originals/c7/54/ea/c754eacf0e5eaf8f1448a3d54f820b02.gif" width="190" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wagura-maurice&theme=tokyonight&utcOffset=3" height="165" />
 </p>
 
 <p align="center">
