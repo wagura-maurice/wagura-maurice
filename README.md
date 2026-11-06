@@ -164,7 +164,7 @@ class Developer {
   <img title="Arduino" src="https://skillicons.dev/icons?i=arduino&theme=dark" />
   <img title="ESP32" src="assets/icons/esp32.svg" />
   <img title="Raspberry Pi" src="https://skillicons.dev/icons?i=raspberrypi&theme=dark" />
-  <img title="Telegram bots" src="https://skillicons.dev/icons?i=telegram&theme=dark" />
+  <img title="Telegram bots" height="48" src="https://cdn.simpleicons.org/telegram" />
   <img title="Selenium" src="https://skillicons.dev/icons?i=selenium&theme=dark" />
   <img title="Playwright" src="assets/icons/playwright.svg" />
   <img title="Africa's Talking WebRTC" src="assets/icons/africastalking.svg" />
