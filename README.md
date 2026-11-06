@@ -120,6 +120,22 @@ class Developer {
 
 <p align="left"><em>Databases also include SQL Server; API work spans REST & GraphQL; Laravel ecosystem includes Livewire & Inertia; edge/serverless work on Cloudflare Workers.</em></p>
 
+### 💳 Payments & Kenyan Integrations
+<p align="left">
+  <img title="M-Pesa (Safaricom Daraja)" height="28" src="https://img.shields.io/badge/M--Pesa%20(Daraja)-4CAF50?style=for-the-badge&logo=safari&logoColor=white" />
+  <img title="Equity Bank" height="28" src="https://img.shields.io/badge/Equity%20Bank-8B0000?style=for-the-badge&logo=equity&logoColor=white" />
+  <img title="Co-operative Bank" height="28" src="https://img.shields.io/badge/Co--op%20Bank-007A33?style=for-the-badge" />
+  <img title="KCB Bank" height="28" src="https://img.shields.io/badge/KCB%20Bank-0066B3?style=for-the-badge" />
+  <img title="Flutterwave" height="28" src="https://img.shields.io/badge/Flutterwave-F5A623?style=for-the-badge&logo=flutterwave&logoColor=white" />
+  <img title="Paystack" height="28" src="https://img.shields.io/badge/Paystack-00C3F7?style=for-the-badge&logo=paystack&logoColor=white" />
+  <img title="IntaSend" height="28" src="https://img.shields.io/badge/IntaSend-1B7FE0?style=for-the-badge" />
+  <img title="MTN Mobile Money" height="28" src="https://img.shields.io/badge/MTN%20MoMo-FFCC00?style=for-the-badge&logoColor=black" />
+</p>
+<p align="left">
+  <img title="KRA (iTax / eTIMS)" height="28" src="https://img.shields.io/badge/KRA%20(iTax%2FeTIMS)-B31942?style=for-the-badge" />
+  <img title="Africa's Talking" height="28" src="https://img.shields.io/badge/Africa's%20Talking-F58220?style=for-the-badge" />
+</p>
+
 ### 🤖 IoT, Bots & Trading
 <p align="left">
   <img title="Arduino / ESP32" src="https://skillicons.dev/icons?i=arduino&theme=dark" />
