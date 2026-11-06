@@ -99,13 +99,13 @@ class Developer {
 ### ⚙️ Backend & Databases
 <p align="left">
   <img title="Laravel" src="https://skillicons.dev/icons?i=laravel&theme=dark" />
-  <img title="CodeIgniter" src="assets/icons/codeigniter.svg" />
+  <img title="CodeIgniter" height="28" src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" />
   <img title="Ruby on Rails" src="https://skillicons.dev/icons?i=rails&theme=dark" />
   <img title="Django" src="https://skillicons.dev/icons?i=django&theme=dark" />
   <img title="Flask" src="https://skillicons.dev/icons?i=flask&theme=dark" />
   <img title="Node.js" src="https://skillicons.dev/icons?i=nodejs&theme=dark" />
   <img title="Express" src="https://skillicons.dev/icons?i=express&theme=dark" />
-  <img title="Hono" src="assets/icons/hono.svg" />
+  <img title="Hono" height="28" src="https://img.shields.io/badge/Hono-FF360A?style=for-the-badge&logo=hono&logoColor=white" />
   <img title="WordPress" src="https://skillicons.dev/icons?i=wordpress&theme=dark" />
   <img title="MySQL" src="https://skillicons.dev/icons?i=mysql&theme=dark" />
   <img title="PostgreSQL" src="https://skillicons.dev/icons?i=postgres&theme=dark" />
@@ -119,10 +119,10 @@ class Developer {
   <img title="npm" src="https://skillicons.dev/icons?i=npm&theme=dark" />
   <img title="Yarn" src="https://skillicons.dev/icons?i=yarn&theme=dark" />
   <img title="pnpm" src="https://skillicons.dev/icons?i=pnpm&theme=dark" />
-  <img title="Composer" src="assets/icons/composer.svg" />
+  <img title="Composer" height="28" src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white" />
   <img title="Maven" src="https://skillicons.dev/icons?i=maven&theme=dark" />
   <img title="Gradle" src="https://skillicons.dev/icons?i=gradle&theme=dark" />
-  <img title="PM2" src="assets/icons/pm2.svg" />
+  <img title="PM2" height="28" src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white" />
 </p>
 <p align="left"><em>Also daily-driven: Laravel Valet, Wrangler (Cloudflare CLI), gulp, ADB (Android SDK), tmux, jq.</em></p>
 
@@ -140,37 +140,38 @@ class Developer {
   <img title="Cloudflare" src="https://skillicons.dev/icons?i=cloudflare&theme=dark" />
   <img title="Figma" src="https://skillicons.dev/icons?i=figma&theme=dark" />
   <img title="Photoshop" src="https://skillicons.dev/icons?i=ps&theme=dark" />
-  <img title="Canva" src="assets/icons/canva.svg" />
+  <img title="Canva" height="28" src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
 </p>
 
 <p align="left"><em>Databases also include SQL Server; API work spans REST & GraphQL; Laravel ecosystem includes Livewire & Inertia; edge/serverless work on Cloudflare Workers.</em></p>
 
 ### 💳 Payments & Kenyan Integrations
 <p align="left">
-  <img title="M-Pesa (Safaricom Daraja)" width="48" src="https://img.icons8.com/color/96/000000/mpesa.png" />
-  <img title="Equity Bank" src="assets/icons/equity.svg" />
-  <img title="Co-operative Bank" src="assets/icons/coopbank.svg" />
-  <img title="KCB Bank" src="assets/icons/kcb.svg" />
-  <img title="Flutterwave" src="assets/icons/flutterwave.svg" />
-  <img title="Paystack" src="assets/icons/paystack.svg" />
-  <img title="IntaSend" src="assets/icons/intasend.svg" />
-  <img title="MTN Mobile Money" src="assets/icons/mtn.svg" />
-  <img title="KRA (iTax / eTIMS)" src="assets/icons/kra.svg" />
-  <img title="Africa's Talking" src="assets/icons/africastalking.svg" />
+  <img title="M-Pesa (Safaricom Daraja)" height="28" src="https://img.shields.io/badge/M--Pesa%20(Daraja)-4CAF50?style=for-the-badge" />
+  <img title="Equity Bank" height="28" src="https://img.shields.io/badge/Equity%20Bank-8B0000?style=for-the-badge" />
+  <img title="Co-operative Bank" height="28" src="https://img.shields.io/badge/Co--op%20Bank-007A33?style=for-the-badge" />
+  <img title="KCB Bank" height="28" src="https://img.shields.io/badge/KCB%20Bank-0066B3?style=for-the-badge" />
+  <img title="Flutterwave" height="28" src="https://img.shields.io/badge/Flutterwave-F5A623?style=for-the-badge" />
+  <img title="Paystack" height="28" src="https://img.shields.io/badge/Paystack-00C3F7?style=for-the-badge" />
+  <img title="IntaSend" height="28" src="https://img.shields.io/badge/IntaSend-1B7FE0?style=for-the-badge" />
+  <img title="MTN Mobile Money" height="28" src="https://img.shields.io/badge/MTN%20MoMo-FFCC00?style=for-the-badge&logoColor=black" />
+  <img title="KRA (iTax / eTIMS)" height="28" src="https://img.shields.io/badge/KRA%20(iTax%2FeTIMS)-B31942?style=for-the-badge" />
+  <img title="Africa's Talking" height="28" src="https://img.shields.io/badge/Africa's%20Talking-F58220?style=for-the-badge" />
 </p>
 
 ### 🤖 IoT, Bots & Trading
 <p align="left">
-  <img title="Arduino" src="https://skillicons.dev/icons?i=arduino&theme=dark" />
-  <img title="ESP32" src="assets/icons/esp32.svg" />
+  <img title="Arduino / ESP32" src="https://skillicons.dev/icons?i=arduino&theme=dark" />
   <img title="Raspberry Pi" src="https://skillicons.dev/icons?i=raspberrypi&theme=dark" />
-  <img title="Telegram bots" src="assets/icons/telegram.svg" />
   <img title="Selenium" src="https://skillicons.dev/icons?i=selenium&theme=dark" />
-  <img title="Playwright" src="assets/icons/playwright.svg" />
-  <img title="Africa's Talking WebRTC" src="assets/icons/africastalking.svg" />
-  <img title="MetaTrader 5" src="assets/icons/metatrader.svg" />
-  <img title="Binance API" src="assets/icons/binance.svg" />
-  <img title="Coinbase API" src="assets/icons/coinbase.svg" />
+</p>
+<p align="left">
+  <img title="Telegram Bots" height="28" src="https://img.shields.io/badge/Telegram%20Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  <img title="Playwright" height="28" src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+  <img title="Africa's Talking WebRTC" height="28" src="https://img.shields.io/badge/Africa's%20Talking%20WebRTC-F58220?style=for-the-badge" />
+  <img title="MetaTrader 5" height="28" src="https://img.shields.io/badge/MetaTrader%205-2E9E5B?style=for-the-badge" />
+  <img title="Binance API" height="28" src="https://img.shields.io/badge/Binance%20API-F0B90B?style=for-the-badge&logo=binance&logoColor=black" />
+  <img title="Coinbase API" height="28" src="https://img.shields.io/badge/Coinbase%20API-0052FF?style=for-the-badge&logo=coinbase&logoColor=white" />
 </p>
 <p align="left"><em>Embedded tinkering, bot automation, telco integrations & algorithmic trading.</em></p>
 
