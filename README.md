@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Maurice%20Wagura&fontSize=70&fontAlignY=38&desc=Full-Stack%20Engineer%20|%20GovTech%20%26%20FinTech%20|%20Systems%20Architect&descAlignY=55&descAlign=50&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Maurice%20Wagura&fontSize=70&fontAlignY=38&desc=Full-Stack%20Engineer%20|%20GovTech%20%2B%20FinTech%20|%20Systems%20Architect&descAlignY=55&descAlign=50&animation=fadeIn)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&repeat=true&width=650&lines=Building+national-scale+web+portals;9%2B+years+of+full-stack+engineering;FinTech+%26+GovTech+specialist;Clean+code+over+clever+code" alt="Typing SVG" />
 
