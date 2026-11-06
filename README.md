@@ -99,13 +99,13 @@ class Developer {
 ### ⚙️ Backend & Databases
 <p align="left">
   <img title="Laravel" src="https://skillicons.dev/icons?i=laravel&theme=dark" />
-  <img title="CodeIgniter" height="48" src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" />
+  <img title="CodeIgniter" src="assets/icons/codeigniter.svg" />
   <img title="Ruby on Rails" src="https://skillicons.dev/icons?i=rails&theme=dark" />
   <img title="Django" src="https://skillicons.dev/icons?i=django&theme=dark" />
   <img title="Flask" src="https://skillicons.dev/icons?i=flask&theme=dark" />
   <img title="Node.js" src="https://skillicons.dev/icons?i=nodejs&theme=dark" />
   <img title="Express" src="https://skillicons.dev/icons?i=express&theme=dark" />
-  <img title="Hono" height="48" src="https://img.shields.io/badge/Hono-FF360A?style=for-the-badge&logo=hono&logoColor=white" />
+  <img title="Hono" src="assets/icons/hono.svg" />
   <img title="WordPress" src="https://skillicons.dev/icons?i=wordpress&theme=dark" />
   <img title="MySQL" src="https://skillicons.dev/icons?i=mysql&theme=dark" />
   <img title="PostgreSQL" src="https://skillicons.dev/icons?i=postgres&theme=dark" />
@@ -119,10 +119,10 @@ class Developer {
   <img title="npm" src="https://skillicons.dev/icons?i=npm&theme=dark" />
   <img title="Yarn" src="https://skillicons.dev/icons?i=yarn&theme=dark" />
   <img title="pnpm" src="https://skillicons.dev/icons?i=pnpm&theme=dark" />
-  <img title="Composer" height="48" src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white" />
+  <img title="Composer" src="assets/icons/composer.svg" />
   <img title="Maven" src="https://skillicons.dev/icons?i=maven&theme=dark" />
   <img title="Gradle" src="https://skillicons.dev/icons?i=gradle&theme=dark" />
-  <img title="PM2" height="48" src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white" />
+  <img title="PM2" src="assets/icons/pm2.svg" />
 </p>
 <p align="left"><em>Also daily-driven: Laravel Valet, Wrangler (Cloudflare CLI), gulp, ADB (Android SDK), tmux, jq.</em></p>
 
@@ -140,7 +140,7 @@ class Developer {
   <img title="Cloudflare" src="https://skillicons.dev/icons?i=cloudflare&theme=dark" />
   <img title="Figma" src="https://skillicons.dev/icons?i=figma&theme=dark" />
   <img title="Photoshop" src="https://skillicons.dev/icons?i=ps&theme=dark" />
-  <img title="Canva" height="48" src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+  <img title="Canva" src="assets/icons/canva.svg" />
 </p>
 
 <p align="left"><em>Databases also include SQL Server; API work spans REST & GraphQL; Laravel ecosystem includes Livewire & Inertia; edge/serverless work on Cloudflare Workers.</em></p>
@@ -164,13 +164,13 @@ class Developer {
   <img title="Arduino" src="https://skillicons.dev/icons?i=arduino&theme=dark" />
   <img title="ESP32" src="assets/icons/esp32.svg" />
   <img title="Raspberry Pi" src="https://skillicons.dev/icons?i=raspberrypi&theme=dark" />
-  <img title="Telegram bots" height="48" src="https://cdn.simpleicons.org/telegram" />
+  <img title="Telegram bots" src="assets/icons/telegram.svg" />
   <img title="Selenium" src="https://skillicons.dev/icons?i=selenium&theme=dark" />
   <img title="Playwright" src="assets/icons/playwright.svg" />
   <img title="Africa's Talking WebRTC" src="assets/icons/africastalking.svg" />
   <img title="MetaTrader 5" src="assets/icons/metatrader.svg" />
-  <img title="Binance API" height="48" src="https://cdn.simpleicons.org/binance" />
-  <img title="Coinbase API" height="48" src="https://cdn.simpleicons.org/coinbase" />
+  <img title="Binance API" src="assets/icons/binance.svg" />
+  <img title="Coinbase API" src="assets/icons/coinbase.svg" />
 </p>
 <p align="left"><em>Embedded tinkering, bot automation, telco integrations & algorithmic trading.</em></p>
 
