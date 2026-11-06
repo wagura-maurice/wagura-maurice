@@ -275,6 +275,12 @@ M-Pesa (Safaricom) & MTN mobile money integration • Low-bandwidth mobile-first
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wagura-maurice&theme=tokyonight" width="100%" />
 </p>
 
+## 📈 Live Activity (last 30 days)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/wagura-maurice/wagura-maurice/main/assets/activity.svg" width="100%" alt="Live activity card — regenerated nightly by GitHub Actions" />
+</p>
+
 ## 🐍 Contribution Snake
 
 ![Snake animation](https://raw.githubusercontent.com/wagura-maurice/wagura-maurice/output/github-contribution-grid-snake-dark.svg)

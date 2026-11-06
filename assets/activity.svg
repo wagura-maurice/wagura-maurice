@@ -1,0 +1,85 @@
+<svg width="814" height="318" viewBox="0 0 814 318" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+    .mono { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace; font-size: 12px; }
+    .title { font-size: 20px; font-weight: 600; fill: #C9D1D9; }
+    .big { font-size: 34px; font-weight: 700; }
+    .delta { font-size: 13px; font-weight: 600; }
+    .cap { font-size: 11px; fill: #777; }
+    .label { font-size: 12px; fill: #C9D1D9; }
+  </style>
+  <rect x="0.5" y="0.5" width="813" height="317" rx="8" stroke="rgba(0,0,0,0.15)" fill="rgba(0,0,0,0)"/>
+  <rect x="0.5" y="0.5" width="813" height="317" rx="8" stroke="rgba(255,255,255,0.15)" fill="rgba(0,0,0,0)"/>
+  <rect x="0.5" y="0.5" width="813" height="47" rx="8" stroke="rgba(255,255,255,0.1)"/>
+  <text x="20" y="30" class="sans title">221 Contributions in the Last 30 Days</text>
+    <rect x="420" y="19" width="8" height="8" rx="1.5" fill="#EC4899" opacity="0.5"/>
+    <rect x="431" y="19" width="8" height="8" rx="1.5" fill="#EC4899" opacity="0.5"/>
+    <rect x="442" y="19" width="8" height="8" rx="1.5" fill="#EC4899" opacity="0.5"/>
+    <rect x="453" y="19" width="8" height="8" rx="1.5" fill="#EC4899" opacity="0.4"/>
+    <rect x="464" y="19" width="8" height="8" rx="1.5" fill="#EC4899" opacity="0.4"/>
+    <rect x="475" y="19" width="8" height="8" rx="1.5" fill="#EC4899" opacity="0.4"/>
+    <rect x="486" y="19" width="8" height="8" rx="1.5" fill="#EC4899" opacity="0.5"/>
+    <rect x="497" y="19" width="8" height="8" rx="1.5" fill="#EC4899" opacity="0.4"/>
+    <rect x="508" y="19" width="8" height="8" rx="1.5" fill="#EC4899" opacity="0.9"/>
+    <rect x="519" y="19" width="8" height="8" rx="1.5" fill="#EC4899" opacity="0.5"/>
+    <rect x="530" y="19" width="8" height="8" rx="1.5" fill="#EC4899" opacity="1.0"/>
+    <rect x="541" y="19" width="8" height="8" rx="1.5" fill="#EC4899" opacity="0.7"/>
+    <rect x="552" y="19" width="8" height="8" rx="1.5" fill="#EC4899" opacity="0.4"/>
+    <rect x="563" y="19" width="8" height="8" rx="1.5" fill="#EC4899" opacity="0.4"/>
+    <rect x="574" y="19" width="8" height="8" rx="1.5" fill="#EC4899" opacity="0.2"/>
+    <rect x="585" y="19" width="8" height="8" rx="1.5" fill="#EC4899" opacity="0.2"/>
+    <rect x="596" y="19" width="8" height="8" rx="1.5" fill="#EC4899" opacity="0.2"/>
+    <rect x="607" y="19" width="8" height="8" rx="1.5" fill="#EC4899" opacity="0.4"/>
+    <rect x="618" y="19" width="8" height="8" rx="1.5" fill="#EC4899" opacity="0.4"/>
+    <rect x="629" y="19" width="8" height="8" rx="1.5" fill="#EC4899" opacity="0.2"/>
+    <rect x="640" y="19" width="8" height="8" rx="1.5" fill="#EC4899" opacity="0.4"/>
+    <rect x="651" y="19" width="8" height="8" rx="1.5" fill="#EC4899" opacity="0.5"/>
+    <rect x="662" y="19" width="8" height="8" rx="1.5" fill="#EC4899" opacity="0.4"/>
+    <rect x="673" y="19" width="8" height="8" rx="1.5" fill="#EC4899" opacity="0.5"/>
+    <rect x="684" y="19" width="8" height="8" rx="1.5" fill="#EC4899" opacity="0.5"/>
+    <rect x="695" y="19" width="8" height="8" rx="1.5" fill="#EC4899" opacity="0.4"/>
+    <rect x="706" y="19" width="8" height="8" rx="1.5" fill="#EC4899" opacity="0.4"/>
+    <rect x="717" y="19" width="8" height="8" rx="1.5" fill="#EC4899" opacity="0.2"/>
+    <rect x="728" y="19" width="8" height="8" rx="1.5" fill="#EC4899" opacity="0.4"/>
+    <rect x="739" y="19" width="8" height="8" rx="1.5" fill="#EC4899" opacity="0.5"/>
+
+  <text x="40" y="90" class="sans big" fill="#61ADF4">0/0</text>
+  <text x="40" y="110" class="sans label">Issues Opened/Closed</text>
+  <text x="40" y="128" class="sans delta" fill="#459631">— 0 opened</text>
+  <text x="40" y="144" class="sans cap">past month</text>
+  <rect x="160" y="93" width="10" height="52" fill="#61ADF4"/>
+  <rect x="174" y="-41" width="10" height="186" fill="#61ADF4"/>
+  <rect x="188" y="125" width="10" height="20" fill="#61ADF4"/>
+  <rect x="202" y="101" width="10" height="44" fill="#61ADF4"/>
+
+  <text x="300" y="90" class="sans big" fill="#CF54FC">0</text>
+  <text x="300" y="110" class="sans label">Pull Requests Opened</text>
+  <text x="300" y="128" class="sans delta" fill="#459631">— 0 opened</text>
+  <text x="300" y="144" class="sans cap">past month</text>
+  <rect x="430" y="93" width="10" height="52" fill="#CF54FC"/>
+  <rect x="444" y="-41" width="10" height="186" fill="#CF54FC"/>
+  <rect x="458" y="125" width="10" height="20" fill="#CF54FC"/>
+  <rect x="472" y="101" width="10" height="44" fill="#CF54FC"/>
+
+  <text x="560" y="90" class="sans big" fill="#FF7A35">218</text>
+  <text x="560" y="110" class="sans label">Pushes</text>
+  <text x="560" y="128" class="sans delta" fill="#459631">▲ +218 pushes</text>
+  <text x="560" y="144" class="sans cap">past month</text>
+  <rect x="680" y="93" width="10" height="52" fill="#FF7A35"/>
+  <rect x="694" y="-41" width="10" height="186" fill="#FF7A35"/>
+  <rect x="708" y="125" width="10" height="20" fill="#FF7A35"/>
+  <rect x="722" y="101" width="10" height="44" fill="#FF7A35"/>
+
+  <text x="40" y="190" class="sans title" font-size="16">Most Active Repos</text>
+  <text x="40" y="235" class="mono" fill="#C9D1D9">coinbase-market-worker</text>
+  <rect x="220" y="225" width="400" height="10" rx="5" fill="#61ADF4"/>
+  <text x="630" y="235" class="mono" fill="#777">115 events</text>
+  <text x="40" y="263" class="mono" fill="#C9D1D9">odk-wash</text>
+  <rect x="220" y="253" width="104" height="10" rx="5" fill="#CF54FC"/>
+  <text x="630" y="263" class="mono" fill="#777">30 events</text>
+  <text x="40" y="291" class="mono" fill="#C9D1D9">install-waha</text>
+  <rect x="220" y="281" width="69" height="10" rx="5" fill="#FF7A35"/>
+  <text x="630" y="291" class="mono" fill="#777">20 events</text>
+
+  <text x="40" y="312" class="sans cap">Generated 2026-11-06 20:07 UTC from live GitHub events</text>
+</svg>
