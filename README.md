@@ -31,25 +31,14 @@
 ## 🎯 About Me
 </div>
 
-<img align="right" alt="Coding" width="355" src="https://i.pinimg.com/originals/ce/76/0f/ce760fde1800bc12b74dfd67d2a5dcbe.gif">
+<a href="https://waguramaurice.com/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wagura-maurice/wagura-maurice/main/dark_mode.svg">
+    <img alt="Maurice Wagura - Full-Stack Software Engineer" width="100%" src="https://raw.githubusercontent.com/wagura-maurice/wagura-maurice/main/light_mode.svg">
+  </picture>
+</a>
 
-```js
-class Developer {
-
-  constructor() {
-    this.name = "Maurice Wagura";
-    this.role = "Full-Stack Software Engineer";
-    this.location = "Nairobi, Kenya";
-    this.mindset = "Tailored solutions for real business processes";
-  }
-
-  philosophy() {
-    return "Understand → Build → Secure → Scale";
-  }
-
-}
-```
-<br clear="right"/>
+<p align="left"><a href="https://waguramaurice.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wagura-maurice/wagura-maurice/main/link_portfolio_dark.svg"><img alt="Portfolio" width="33.3%" src="https://raw.githubusercontent.com/wagura-maurice/wagura-maurice/main/link_portfolio_light.svg"></picture></a><a href="https://www.linkedin.com/in/wagura-maurice"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wagura-maurice/wagura-maurice/main/link_linkedin_dark.svg"><img alt="LinkedIn" width="33.3%" src="https://raw.githubusercontent.com/wagura-maurice/wagura-maurice/main/link_linkedin_light.svg"></picture></a><a href="mailto:wagura465@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wagura-maurice/wagura-maurice/main/link_email_dark.svg"><img alt="Email" width="33.3%" src="https://raw.githubusercontent.com/wagura-maurice/wagura-maurice/main/link_email_light.svg"></picture></a></p>
 
 🚀 Current Focus: Front-end & portal engineering for national-scale government platforms<br>
 🌱 Learning Curve: Kubernetes advanced deployments, cloud architecture (AWS · Azure · GCP)<br>

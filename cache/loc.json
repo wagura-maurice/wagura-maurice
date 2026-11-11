@@ -1,0 +1,1192 @@
+{
+  "wagura-maurice/.ssh": {
+    "added": 30,
+    "deleted": 0,
+    "oid": "fd1e03a1e1f99c7de883e860b15c08d0de15e01f"
+  },
+  "wagura-maurice/5balloons": {
+    "added": 67283,
+    "deleted": 415,
+    "oid": "45838f14b86746f95cf26bd7704cbacc70ca8e60"
+  },
+  "wagura-maurice/BNM": {
+    "added": 61006,
+    "deleted": 0,
+    "oid": "4729d457918e840612713af5616c3f8a2a0b4a66"
+  },
+  "wagura-maurice/BioTimeSync": {
+    "added": 14914,
+    "deleted": 6509,
+    "oid": "3da86c86c9b52c6be22ab251648229caf64ad678"
+  },
+  "wagura-maurice/Enumerator": {
+    "added": 13830,
+    "deleted": 0,
+    "oid": "32fe45e9bf0cb669b9ab8399f5275b4007d03ed9"
+  },
+  "wagura-maurice/Express-Node-JS-APP": {
+    "added": 7322,
+    "deleted": 5379,
+    "oid": "bff5e4e46e84c785d8ba963815b560ad73ccce39"
+  },
+  "wagura-maurice/HtmlImagePreviewer": {
+    "added": 0,
+    "deleted": 0,
+    "oid": "e613c3d9a3bfe3f54417ae6b856710d762ebe0cd"
+  },
+  "wagura-maurice/LesothoMoGYSD": {
+    "added": 0,
+    "deleted": 0,
+    "oid": "e887adcee89f0a11b8de397f24b90ee6610352a3"
+  },
+  "wagura-maurice/Machete-Backup-Droid": {
+    "added": 1790,
+    "deleted": 766,
+    "oid": "55083791aab6937796c3af82a6f7b5c65ea25546"
+  },
+  "wagura-maurice/MicroIdeaResume": {
+    "added": 760,
+    "deleted": 15,
+    "oid": "918e27127f720d605e3d4b3c280ed1d7940a317e"
+  },
+  "wagura-maurice/NjorogeDairyFarm": {
+    "added": 46749,
+    "deleted": 19181,
+    "oid": "e79b7fca7faf865bda5632acfb4e0dcb67f1be83"
+  },
+  "wagura-maurice/PWA": {
+    "added": 1477,
+    "deleted": 0,
+    "oid": "28187ec76d2895a6caf1ca14a6c00707840b5227"
+  },
+  "wagura-maurice/R-Wash-Activity-Monitoring-Processing": {
+    "added": 6635,
+    "deleted": 629,
+    "oid": "f3c550760806f946621c10d3bac5aacea90ccb2b"
+  },
+  "wagura-maurice/R-Wash_Reports": {
+    "added": 2215,
+    "deleted": 1221,
+    "oid": "c009cc7b5be501117038c2252f02f0621e8f0967"
+  },
+  "wagura-maurice/RWash-Handover": {
+    "added": 4661,
+    "deleted": 25,
+    "oid": "f60482a8dd99ac95a23fe6dbbc2226eeb0819374"
+  },
+  "wagura-maurice/SecureShell": {
+    "added": 220,
+    "deleted": 0,
+    "oid": "cdfd9c39b0592e0343b8e77d29db32fe05a8af75"
+  },
+  "wagura-maurice/Sensus": {
+    "added": 798,
+    "deleted": 0,
+    "oid": "821c5053bca9ba01d195af6f32df6b7534a319fc"
+  },
+  "wagura-maurice/TEL_KE_PHP": {
+    "added": 738,
+    "deleted": 2,
+    "oid": "923bf44c67053ae58c8305bc9ace2f11b45d71a7"
+  },
+  "wagura-maurice/TodoApp": {
+    "added": 0,
+    "deleted": 0,
+    "oid": "7226e49dcb59dfda8b0eda95dadd97eab5b4cde3"
+  },
+  "wagura-maurice/Web2Upld": {
+    "added": 43,
+    "deleted": 0,
+    "oid": "f935ec25defbf7b8e82dde0ed838f6b331665584"
+  },
+  "wagura-maurice/africastalking-webrtc": {
+    "added": 358462,
+    "deleted": 537,
+    "oid": "3173dd369b7d1b7721fb7bceb5388c65bbb39e7c"
+  },
+  "wagura-maurice/amp": {
+    "added": 2,
+    "deleted": 0,
+    "oid": "bf0620bcf63c6e1c000f713ec474cdd68ab73a95"
+  },
+  "wagura-maurice/android_nfc": {
+    "added": 1228,
+    "deleted": 188,
+    "oid": "4d2d50dd90b64bc6508839b4442d0bc6f7d713c6"
+  },
+  "wagura-maurice/animated-octo-tribble": {
+    "added": 1599,
+    "deleted": 46,
+    "oid": "13fc1ddbd94378b64b6949ee13c087d44cd09278"
+  },
+  "wagura-maurice/apex": {
+    "added": 0,
+    "deleted": 0,
+    "oid": "bd5ec570c4d254bbd03031da9551c305d657bc0d"
+  },
+  "wagura-maurice/apex-banking": {
+    "added": 9581,
+    "deleted": 3888,
+    "oid": "567ac40f9d529fbfde46d29c25b379cc2d514101"
+  },
+  "wagura-maurice/aphrc_api": {
+    "added": 1786,
+    "deleted": 218,
+    "oid": "0efe5a6ee2fde231da362901512c48b7f4da355c"
+  },
+  "wagura-maurice/aphrc_spa": {
+    "added": 34602,
+    "deleted": 5342,
+    "oid": "0eeddfeb96a276573308c105278c0ccec7913f82"
+  },
+  "wagura-maurice/arcade": {
+    "added": 32042,
+    "deleted": 10500,
+    "oid": "fa47f972d771ea635b17ab22aa405ac1c36a213b"
+  },
+  "wagura-maurice/autonomous": {
+    "added": 9408,
+    "deleted": 0,
+    "oid": "89c2fc1fe22532079f776caf8a5184c59c2890de"
+  },
+  "wagura-maurice/aviator-bot": {
+    "added": 0,
+    "deleted": 0,
+    "oid": "a492fbbbd4291e1a694c4e3845e01db28b870740"
+  },
+  "wagura-maurice/aviator-listener": {
+    "added": 0,
+    "deleted": 0,
+    "oid": "2fb99dcf98562371dbc2b2098189ae8eca778a6c"
+  },
+  "wagura-maurice/aviator-monitor-node": {
+    "added": 0,
+    "deleted": 0,
+    "oid": "0131edd02d079bc258f7e8a4cc985d052bf250f4"
+  },
+  "wagura-maurice/awln_africa": {
+    "added": 4542941,
+    "deleted": 0,
+    "oid": "fd04eddb270124615612b0d90e6efeb0d6b2c0f3"
+  },
+  "wagura-maurice/axum-crud-app": {
+    "added": 3377,
+    "deleted": 203,
+    "oid": "5ee5c695d4ca983d17c083d0514d0659166a9332"
+  },
+  "wagura-maurice/aya": {
+    "added": 686038,
+    "deleted": 258035,
+    "oid": "c554d9d0e1d695fd76701eeb95673c8cb361b811"
+  },
+  "wagura-maurice/backup-plus": {
+    "added": 4047,
+    "deleted": 0,
+    "oid": "9054c893179a95e5b960599a7c5f0fd70a12578e"
+  },
+  "wagura-maurice/bebing": {
+    "added": 262198,
+    "deleted": 11874,
+    "oid": "4e9af5cfd8b56f2fbaa44df516cf8175e0be8f07"
+  },
+  "wagura-maurice/bebing-cloudflare-worker-app": {
+    "added": 7820,
+    "deleted": 4438,
+    "oid": "919563e9056bad169b6d571683caace1ea068892"
+  },
+  "wagura-maurice/binance-tick-project": {
+    "added": 0,
+    "deleted": 0,
+    "oid": "6931054779d55108ec25d258ab31b2f21e24d582"
+  },
+  "wagura-maurice/biometric-hrm-concept": {
+    "added": 33274,
+    "deleted": 21760,
+    "oid": "703851c74d112ed60aeb7d466f26212b3fc065ae"
+  },
+  "wagura-maurice/boilerplate": {
+    "added": 521218,
+    "deleted": 193030,
+    "oid": "6df7a4d86b1760b38facaf0a596e0be23130a29e"
+  },
+  "wagura-maurice/bonacci": {
+    "added": 11109,
+    "deleted": 13,
+    "oid": "ab70b73e8196be0f50b0081923fc44a0de7528df"
+  },
+  "wagura-maurice/btc-usdt-binance-proxy": {
+    "added": 1635,
+    "deleted": 0,
+    "oid": "3577bad8989c206a4fa8907881322e7f049740a1"
+  },
+  "wagura-maurice/btc-usdt-binance-trader": {
+    "added": 33608,
+    "deleted": 4651,
+    "oid": "84623342ab7eae6bee566607b756b98d2c2b8cd1"
+  },
+  "wagura-maurice/btcusdt_trader": {
+    "added": 0,
+    "deleted": 0,
+    "oid": "dacddf0a3d9faeedd9c6e454146953143ffc5623"
+  },
+  "wagura-maurice/bug-free-octo-disco": {
+    "added": 1523,
+    "deleted": 2,
+    "oid": "cfe6eb48f58540529819197604a016d73ad2925d"
+  },
+  "wagura-maurice/busara-job-board": {
+    "added": 33798,
+    "deleted": 2198,
+    "oid": "b809c68b8fe293e7abbb27b62057c4c722393ea2"
+  },
+  "wagura-maurice/campaign": {
+    "added": 19932,
+    "deleted": 1027,
+    "oid": "f1f68ed3f12af8714e718452fe2daea982ff4726"
+  },
+  "wagura-maurice/campaigner_frontend": {
+    "added": 11787,
+    "deleted": 0,
+    "oid": "7035515771538fd0a29d2e072da4527da1af5dd8"
+  },
+  "wagura-maurice/casino": {
+    "added": 8689,
+    "deleted": 4,
+    "oid": "3b8a56673733f9801bf1f575c407d1d3b13e20ec"
+  },
+  "wagura-maurice/cert_vatzac": {
+    "added": 24158,
+    "deleted": 0,
+    "oid": "74542be7d2e65b589fa8e9636f0a3fe2261c159b"
+  },
+  "wagura-maurice/cha": {
+    "added": 10980,
+    "deleted": 0,
+    "oid": "c42d770d2ada00a0d30d080f3c3cdf8bb10d1728"
+  },
+  "wagura-maurice/chainsaw": {
+    "added": 823,
+    "deleted": 301,
+    "oid": "8d91e18524d7f0197a65b50276d796be1e37e2c7"
+  },
+  "wagura-maurice/ci-webdev": {
+    "added": 196770,
+    "deleted": 110,
+    "oid": "bf0512a7fed50ec2d8be32df0fca694f7d9906ec"
+  },
+  "wagura-maurice/cloudwage": {
+    "added": 1310507,
+    "deleted": 1372,
+    "oid": "3eaa65b855e98447908ffb903b90538b18c2a721"
+  },
+  "wagura-maurice/coalition_api": {
+    "added": 20886,
+    "deleted": 8625,
+    "oid": "27793fab1de400e77065006a39eeeb64c4eecca1"
+  },
+  "wagura-maurice/coalition_spa": {
+    "added": 9416,
+    "deleted": 1060,
+    "oid": "b48fa5e6b69db4b91fc05d2e18d8853c54bd5a32"
+  },
+  "wagura-maurice/codeigniter-restapi": {
+    "added": 89144,
+    "deleted": 6,
+    "oid": "139c5b32915723472f16019f5449f055fed7265a"
+  },
+  "wagura-maurice/coinbase-market-worker": {
+    "added": 90069,
+    "deleted": 27804,
+    "oid": "aea024f22a030c07f643204813c9ce21d8aa4c96"
+  },
+  "wagura-maurice/com.bebing.app": {
+    "added": 451,
+    "deleted": 302,
+    "oid": "8db56051981aaa045b5ace7d5ae5b7cfe57c4dab"
+  },
+  "wagura-maurice/com.bebing.sms": {
+    "added": 7305,
+    "deleted": 1405,
+    "oid": "0b8c0a2478e8a7f8326f6b43ef11bcc3a97773fd"
+  },
+  "wagura-maurice/com.waguramaurice.backup": {
+    "added": 2505,
+    "deleted": 256,
+    "oid": "3bfbfe63f59baa09270fdcdf3b0a6ec16b8bce5e"
+  },
+  "wagura-maurice/com.waguramaurice.jenga": {
+    "added": 0,
+    "deleted": 0,
+    "oid": "2dae1049ceefabd2eb15a2003b0b7a9059b0ed1c"
+  },
+  "wagura-maurice/coming--soon": {
+    "added": 97619,
+    "deleted": 0,
+    "oid": "a8aa61f9479e286252b14845bb52dd2d9980d51f"
+  },
+  "wagura-maurice/congenial-carnival": {
+    "added": 62856,
+    "deleted": 0,
+    "oid": "28cb878b04a33ae0605f36065e94a3cd73b88c61"
+  },
+  "wagura-maurice/contacts-backup": {
+    "added": 0,
+    "deleted": 0,
+    "oid": "561af58fbe7ff505ba32a3cfe65e2a34c7b1d12c"
+  },
+  "wagura-maurice/copilot": {
+    "added": 11220,
+    "deleted": 0,
+    "oid": "b1eafb3345841e9e4955ba0d688f1608b1042c31"
+  },
+  "wagura-maurice/core_php_to_mssql": {
+    "added": 14,
+    "deleted": 1,
+    "oid": "077b8f18149fbcc390d20f532041820d8caed1be"
+  },
+  "wagura-maurice/cosand": {
+    "added": 35829,
+    "deleted": 8912,
+    "oid": "208a2c493baee4f552495646fcb8ccdb7cfbaac0"
+  },
+  "wagura-maurice/coventic": {
+    "added": 0,
+    "deleted": 0,
+    "oid": "9cb2b7875eeabe644816a32293524e5ea16aa278"
+  },
+  "wagura-maurice/crsp": {
+    "added": 211165,
+    "deleted": 44984,
+    "oid": "cc5bb3c9e73b2f0dd18cc6fc8b4dd3d19c4f92d8"
+  },
+  "wagura-maurice/crsp_project": {
+    "added": 152594,
+    "deleted": 10838,
+    "oid": "00a4a5a40d9e2e46cf91e364cc76e7f9a0e9222e"
+  },
+  "wagura-maurice/curly-potato": {
+    "added": 2705,
+    "deleted": 2684,
+    "oid": "39f585a24cfcee410cfd55852ceae374c05ad3c2"
+  },
+  "wagura-maurice/d1-import": {
+    "added": 0,
+    "deleted": 0,
+    "oid": "97fd6250dd4895fe0e7b0c11ca7b3a6174d93e67"
+  },
+  "wagura-maurice/dairy": {
+    "added": 62715,
+    "deleted": 1470,
+    "oid": "e3a0acc7ae07376bf28cb87a7dd023323bb7562f"
+  },
+  "wagura-maurice/dark-angel": {
+    "added": 0,
+    "deleted": 0,
+    "oid": "7161be3243c9089664413a87d5c05d16b034544a"
+  },
+  "wagura-maurice/demiurge-ai": {
+    "added": 43,
+    "deleted": 0,
+    "oid": "332860efaf6406402878eafa8489700f319434e2"
+  },
+  "wagura-maurice/devops": {
+    "added": 3703,
+    "deleted": 135,
+    "oid": "a5174d03a1b22166936fc0c8b7bfc49c86ea27b8"
+  },
+  "wagura-maurice/djMag": {
+    "added": 0,
+    "deleted": 0,
+    "oid": "4fac4f988985107f63748a2737f06d4fee921bc0"
+  },
+  "wagura-maurice/djtrick": {
+    "added": 0,
+    "deleted": 0,
+    "oid": "b81de3308c51dae0feee4f6962d07e001ed6bca2"
+  },
+  "wagura-maurice/e-GRANARY_MALIPO": {
+    "added": 174876,
+    "deleted": 3921,
+    "oid": "1f1b047afb83a2ec320670c9e1d4019ffed0c22f"
+  },
+  "wagura-maurice/e-government": {
+    "added": 0,
+    "deleted": 0,
+    "oid": "2ad6c9231e1b3fc309e419a6ac2e6a671599e21e"
+  },
+  "wagura-maurice/e-granary": {
+    "added": 625984,
+    "deleted": 406555,
+    "oid": "9a804a8a0cd6b7963cb1e65f715098c55698c063"
+  },
+  "wagura-maurice/e-granary-ruby": {
+    "added": 1460,
+    "deleted": 54,
+    "oid": "4e413a2c1c33a3ff7c683b8884b59839eae396c3"
+  },
+  "wagura-maurice/e-granary-v2-importer": {
+    "added": 13216,
+    "deleted": 386,
+    "oid": "48ddf34959ff2b97b0142ee12d256dd4463fd19a"
+  },
+  "wagura-maurice/e-granary_website_template": {
+    "added": 6998,
+    "deleted": 0,
+    "oid": "cb1a2c8398c914bfd9372a96a7b84ce7db4cf642"
+  },
+  "wagura-maurice/e4impact": {
+    "added": 129319,
+    "deleted": 10208,
+    "oid": "158455ffd2a2cedd2ef4acbddaac319b14c38bf5"
+  },
+  "wagura-maurice/eGRANARYKe": {
+    "added": 186061,
+    "deleted": 62,
+    "oid": "3a5044dad3a2591174c6c74d63681c29c933ecac"
+  },
+  "wagura-maurice/eaff_php": {
+    "added": 14127,
+    "deleted": 68,
+    "oid": "6168f9ac5af5451fb362a2a821be9ffc40fc9b1f"
+  },
+  "wagura-maurice/eaff_rails": {
+    "added": 1350,
+    "deleted": 17,
+    "oid": "55ccde158784afff95ba6208d28eeeb05e21194e"
+  },
+  "wagura-maurice/eclipsa-worker": {
+    "added": 10784,
+    "deleted": 731,
+    "oid": "ec58ff9496be792ffdb84ecfea050ac34f031cb4"
+  },
+  "wagura-maurice/edu-fin-wordpress": {
+    "added": 4059632,
+    "deleted": 483313,
+    "oid": "466d5e8a29157e3676c1e0ecd202f82e8bbc2008"
+  },
+  "wagura-maurice/edu_fin": {
+    "added": 18144,
+    "deleted": 2740,
+    "oid": "611e1678fd1ce397da9c5e4860c97217741a0c15"
+  },
+  "wagura-maurice/effective-lamp": {
+    "added": 23,
+    "deleted": 0,
+    "oid": "8945eaadb8bda2c696b28e8dca36de1a80edbcce"
+  },
+  "wagura-maurice/egranary": {
+    "added": 142577,
+    "deleted": 27354,
+    "oid": "aabd1736e7965d7717e222e4ef0bfb0ba6c04675"
+  },
+  "wagura-maurice/eixC6": {
+    "added": 676,
+    "deleted": 0,
+    "oid": "7cb4a96b8a13a6089ecc2ace380392a794072d6c"
+  },
+  "wagura-maurice/ems": {
+    "added": 179089,
+    "deleted": 25163,
+    "oid": "3a789341f7b0c6bfcdffc6ad9f0e3eebeeb91f27"
+  },
+  "wagura-maurice/erp": {
+    "added": 84680,
+    "deleted": 235,
+    "oid": "0c1e833d33856267981252fdc2953ad50f19f7ce"
+  },
+  "wagura-maurice/eticketing": {
+    "added": 24010,
+    "deleted": 0,
+    "oid": "6ebdbad18e432b46cf033796970ffd8dc3bfc175"
+  },
+  "wagura-maurice/expert-enigma": {
+    "added": 14533,
+    "deleted": 350,
+    "oid": "de4f6187553d6e7b518a48a0d59655c3ef447701"
+  },
+  "wagura-maurice/fancy-surf-c5e2": {
+    "added": 2227,
+    "deleted": 68,
+    "oid": "ef4d0e0a27281eeddde28bb7085f54705c8705e1"
+  },
+  "wagura-maurice/farmlife": {
+    "added": 78759,
+    "deleted": 14253,
+    "oid": "c50380947da911aa5de7f9a737c2fcc0e29ff469"
+  },
+  "wagura-maurice/fictional-octo-lamp": {
+    "added": 8734,
+    "deleted": 68,
+    "oid": "c5fb7bc953291a72ccaff0ddac2c234c42e3b6d1"
+  },
+  "wagura-maurice/flexrent": {
+    "added": 792602,
+    "deleted": 725966,
+    "oid": "c2adb22fa2ba28a63004c97e6e64ae03a0fd1e7f"
+  },
+  "wagura-maurice/flutter_app": {
+    "added": 1583,
+    "deleted": 0,
+    "oid": "cbd11f294dafe5849a9b9e9a6c6981bddb614d5a"
+  },
+  "wagura-maurice/fortify": {
+    "added": 60078,
+    "deleted": 0,
+    "oid": "64cabee5f508a6e630feebf922deefe82610e09d"
+  },
+  "wagura-maurice/forward-kenya-party": {
+    "added": 148129,
+    "deleted": 48345,
+    "oid": "5e5be76dd315fc47e58c6c5c4d9de294b35b5029"
+  },
+  "wagura-maurice/fulcrum": {
+    "added": 18822,
+    "deleted": 0,
+    "oid": "488a6d25f28fbba643c67e52ee34897a7513ae38"
+  },
+  "wagura-maurice/full-stack-react-laravel-template": {
+    "added": 0,
+    "deleted": 0,
+    "oid": "cc9c3d8db41b64b687fdfda0971edd22fbec6a3d"
+  },
+  "wagura-maurice/fundraiser": {
+    "added": 3275075,
+    "deleted": 1750699,
+    "oid": "7432592fa9b8d303fb010f7973a1da2f1703a60d"
+  },
+  "wagura-maurice/fundraiser_portal": {
+    "added": 13627,
+    "deleted": 12436,
+    "oid": "396280160e78b3df7435c955fa38a168d809614c"
+  },
+  "wagura-maurice/glowing-doodle": {
+    "added": 1395,
+    "deleted": 0,
+    "oid": "aac7c0d5704d807f6ab5078a726f9b261e42d838"
+  },
+  "wagura-maurice/glowing-umbrella": {
+    "added": 56916,
+    "deleted": 20548,
+    "oid": "852bd9db744c514fa5d1e23e84396e622afec0bb"
+  },
+  "wagura-maurice/hela-backend": {
+    "added": 14201,
+    "deleted": 2047,
+    "oid": "e3ff6dc7383e4e7d5d64ca64a968f8cb2ded0280"
+  },
+  "wagura-maurice/hela-dashboard": {
+    "added": 211898,
+    "deleted": 2656,
+    "oid": "7f2a61c58d837b458b8f7bc36fc11dbeb16796b0"
+  },
+  "wagura-maurice/hela-ussd": {
+    "added": 99842,
+    "deleted": 8571,
+    "oid": "c9f4453f6f5c29fa9f39f5d42bf1e27df8bf0fd8"
+  },
+  "wagura-maurice/helahub": {
+    "added": 29736,
+    "deleted": 166,
+    "oid": "e44784ee0974bfe6b5552d4d0e86fccc96f399a6"
+  },
+  "wagura-maurice/hikevision_prepositions_and_guideance": {
+    "added": 0,
+    "deleted": 0,
+    "oid": "c4f9c59a57bcd65108f1b6585fe74c65bd524002"
+  },
+  "wagura-maurice/hono-graphql-server": {
+    "added": 12903,
+    "deleted": 4181,
+    "oid": "fc6bb121279975fd6f85e0da10cf3961411c6d8b"
+  },
+  "wagura-maurice/icea_backend": {
+    "added": 43115,
+    "deleted": 3233,
+    "oid": "32ab407d40d06d136af5b3edd09e09f8a03a9360"
+  },
+  "wagura-maurice/icea_frontend": {
+    "added": 26179,
+    "deleted": 0,
+    "oid": "b50ffdae0d2ebf6673f1bac9c20a4a982facf31b"
+  },
+  "wagura-maurice/impact": {
+    "added": 415396,
+    "deleted": 90756,
+    "oid": "2ecc3f6eaba3ee1928f17d929a51b37a25d58269"
+  },
+  "wagura-maurice/incevio": {
+    "added": 1725353,
+    "deleted": 66,
+    "oid": "d7cfb4e9406b435e7c36bee6df9eefa575a6950d"
+  },
+  "wagura-maurice/input_request": {
+    "added": 107756,
+    "deleted": 5151,
+    "oid": "a96afc73d45917a2905095515f1753f764a61275"
+  },
+  "wagura-maurice/install-waha": {
+    "added": 0,
+    "deleted": 0,
+    "oid": "09591ffe2b6939191b44f6832b00102032f204b3"
+  },
+  "wagura-maurice/ionicApp": {
+    "added": 290634,
+    "deleted": 62,
+    "oid": "d26bc0f691ffdec0e5041426a437e8adb44aff6d"
+  },
+  "wagura-maurice/isiolo-api": {
+    "added": 35275,
+    "deleted": 5727,
+    "oid": "0adbc9be848e9adcc9753074ba940075e5be94ff"
+  },
+  "wagura-maurice/iussd": {
+    "added": 96437,
+    "deleted": 0,
+    "oid": "62a83bc2a0615eba05e60034b0b8de99d9593298"
+  },
+  "wagura-maurice/jenga": {
+    "added": 1404510,
+    "deleted": 28908,
+    "oid": "fab4f017ee55254762b1dc8e5e597b24189eda77"
+  },
+  "wagura-maurice/jenga-kenya-worker": {
+    "added": 14015,
+    "deleted": 870,
+    "oid": "e5d3d79726b5e45fd5542d10083a97684d471f15"
+  },
+  "wagura-maurice/jenga-middle-man": {
+    "added": 0,
+    "deleted": 0,
+    "oid": "64448c924f235bdb99d964d24648f4c29bfc0eab"
+  },
+  "wagura-maurice/jetpack-compose-template": {
+    "added": 6116,
+    "deleted": 322,
+    "oid": "98682ed32b358b1ab5340dfcb28a2ab8052ccd7d"
+  },
+  "wagura-maurice/kama_hakuna": {
+    "added": 21291,
+    "deleted": 5877,
+    "oid": "c531e05ba26409609ba17b6736bdddebb5030f32"
+  },
+  "wagura-maurice/kampeni": {
+    "added": 27964,
+    "deleted": 582,
+    "oid": "c50f9d6594828b6d29977b49e67391007e5b02fa"
+  },
+  "wagura-maurice/ke-msisdn-validator": {
+    "added": 1853,
+    "deleted": 23,
+    "oid": "dbf0250613ba1a0a5899a424606db7a6bda85adf"
+  },
+  "wagura-maurice/kubernetes": {
+    "added": 3876471,
+    "deleted": 0,
+    "oid": "4363d4243651dcd99fd21c0403c3ed9285a49d6f"
+  },
+  "wagura-maurice/lactesco": {
+    "added": 19912,
+    "deleted": 2,
+    "oid": "749476f72fa927d9cff36401347f6c46203d14d4"
+  },
+  "wagura-maurice/lara-pesa": {
+    "added": 9874,
+    "deleted": 337,
+    "oid": "83c7524b069411bf8dca4467416d5e2f4b6117ef"
+  },
+  "wagura-maurice/laramwak": {
+    "added": 0,
+    "deleted": 0,
+    "oid": "c6b3babbdbd1d2af969b3f0e985f40a257bc7852"
+  },
+  "wagura-maurice/laravel-vps-setup": {
+    "added": 0,
+    "deleted": 0,
+    "oid": "b559bc48d6522c3ed93e9c1f4707af395e547b14"
+  },
+  "wagura-maurice/laravel_mpesa_push_stk": {
+    "added": 16467,
+    "deleted": 0,
+    "oid": "d0c21746bc8034518d93161a671fb4953019396f"
+  },
+  "wagura-maurice/laravel_react_template": {
+    "added": 194097,
+    "deleted": 0,
+    "oid": "5f244f2e254fbd15e1c5fe7291b9f8cec3143984"
+  },
+  "wagura-maurice/lead_manager": {
+    "added": 200,
+    "deleted": 0,
+    "oid": "74e5aecb7a8a3a8fe45758616a3c666a05f2f165"
+  },
+  "wagura-maurice/legendary-carnival": {
+    "added": 2052,
+    "deleted": 247,
+    "oid": "bc0193b8e92ac953742a379f4b00697ad8af5359"
+  },
+  "wagura-maurice/leqs_template": {
+    "added": 0,
+    "deleted": 0,
+    "oid": "a47ec52c67faacd2d30053d041fd29b8400d1d01"
+  },
+  "wagura-maurice/literate-invention": {
+    "added": 49990,
+    "deleted": 18624,
+    "oid": "01ce6714ac828c6f3f303345236f8fb6c8b2f185"
+  },
+  "wagura-maurice/m-weza": {
+    "added": 17614,
+    "deleted": 194,
+    "oid": "eee5f829b25462b60d765ad96f832029007b5243"
+  },
+  "wagura-maurice/magento-mpesa-plug": {
+    "added": 223,
+    "deleted": 0,
+    "oid": "524f6047854d746a4866ce9ffbf26d2e7de4ccf2"
+  },
+  "wagura-maurice/mdb-scaffolding": {
+    "added": 1736595,
+    "deleted": 2593,
+    "oid": "f7aba196ad3e0a6caf7b36c419982eee3064f89c"
+  },
+  "wagura-maurice/mdb-webpack-boilerplate": {
+    "added": 1794287,
+    "deleted": 1,
+    "oid": "47a3793540c464feed4609622405c4ce50923010"
+  },
+  "wagura-maurice/mermaid": {
+    "added": 244,
+    "deleted": 27,
+    "oid": "51f09537aa31a1f59e36abad9efa57d4a3645f40"
+  },
+  "wagura-maurice/microfinance": {
+    "added": 2024,
+    "deleted": 48,
+    "oid": "b33d954478a966648794eafa08f302d3871ebd1f"
+  },
+  "wagura-maurice/mini-app": {
+    "added": 8195,
+    "deleted": 18,
+    "oid": "d7c43f1fb54c7f045bbfacf2c7f0bfe36c5ecd8c"
+  },
+  "wagura-maurice/miniature-fortnight": {
+    "added": 106464,
+    "deleted": 311,
+    "oid": "539b8be8a0bbc705ba563e377c7568ff26d65fee"
+  },
+  "wagura-maurice/modelcache": {
+    "added": 11390,
+    "deleted": 3,
+    "oid": "660c28d29ea325df2c78cfc54a0787129d21d9d5"
+  },
+  "wagura-maurice/mpesa": {
+    "added": 1242,
+    "deleted": 0,
+    "oid": "47b13a2cf6c3d671688308783ed6fb1322836f83"
+  },
+  "wagura-maurice/mpesa_payments": {
+    "added": 533,
+    "deleted": 56,
+    "oid": "a86b77150f6099f80d85140e89c4ee0e6ed9fdc8"
+  },
+  "wagura-maurice/mssql_php": {
+    "added": 563,
+    "deleted": 41,
+    "oid": "79219db57a0d6509415c736e991a0d06ccee3932"
+  },
+  "wagura-maurice/mwak": {
+    "added": 114904,
+    "deleted": 29326,
+    "oid": "da7f1151b419918a4ad0e146f4ec54b1bda657e3"
+  },
+  "wagura-maurice/my-project": {
+    "added": 3807,
+    "deleted": 81,
+    "oid": "719cf9056bc860e0bbfddd7be1ff08632f9f7fa6"
+  },
+  "wagura-maurice/my_droid_app": {
+    "added": 631,
+    "deleted": 62,
+    "oid": "eddee631070304452d919ed7df2424f939971016"
+  },
+  "wagura-maurice/my_portfolio": {
+    "added": 49511,
+    "deleted": 1082,
+    "oid": "b2c776de3db0579e0ca0d9e0e858abcb0d842d78"
+  },
+  "wagura-maurice/myapp": {
+    "added": 1785,
+    "deleted": 0,
+    "oid": "863532fa36c58e825f8ce358233c8fee62a53122"
+  },
+  "wagura-maurice/mysite": {
+    "added": 364,
+    "deleted": 0,
+    "oid": "8766e34f67b197106948504ce92d653c687f16de"
+  },
+  "wagura-maurice/mysite_template": {
+    "added": 89323,
+    "deleted": 0,
+    "oid": "e846f476df9c523ccb3b08f700ad3a54c16d2ebf"
+  },
+  "wagura-maurice/ndc": {
+    "added": 23326,
+    "deleted": 251,
+    "oid": "f839b0d6167e0b2cc5ec3e15d71dcc78cb4f6436"
+  },
+  "wagura-maurice/next-panel": {
+    "added": 62275,
+    "deleted": 32444,
+    "oid": "4c220453f5f0758ae78a08d398450899f3b49f2a"
+  },
+  "wagura-maurice/nextcloud-ansible": {
+    "added": 297,
+    "deleted": 2,
+    "oid": "822c1f60f983cb1f1699be96da22886b050bcfcc"
+  },
+  "wagura-maurice/nextcloud-data-migration": {
+    "added": 6456,
+    "deleted": 181,
+    "oid": "190ca4bf30656352f224ab3a3642e645f37173c3"
+  },
+  "wagura-maurice/nextcloud-setup": {
+    "added": 0,
+    "deleted": 0,
+    "oid": "32b1c97fa358a5449dbe4417929b3913fb8563ce"
+  },
+  "wagura-maurice/nextjs-with-supabase": {
+    "added": 1214,
+    "deleted": 0,
+    "oid": "27f2f3e0457853c0b092269a623ab7dd237cde69"
+  },
+  "wagura-maurice/nodeApp": {
+    "added": 2620,
+    "deleted": 0,
+    "oid": "0967efdeab0f9d58007ab3638d58f71fcd52be51"
+  },
+  "wagura-maurice/notebook-lm": {
+    "added": 63764,
+    "deleted": 33209,
+    "oid": "4c2aef43ad958612de7c436ce1ed20ba4477dde7"
+  },
+  "wagura-maurice/nowinandroid": {
+    "added": 48379,
+    "deleted": 0,
+    "oid": "82246b35c087b4854e01fcfa700ccaf4e4a6ec7d"
+  },
+  "wagura-maurice/nuntius": {
+    "added": 7389,
+    "deleted": 660,
+    "oid": "e18a95cdc77aa121e057d7f8ba49608b71587c4d"
+  },
+  "wagura-maurice/odiousodds-football-worker": {
+    "added": 31841,
+    "deleted": 8951,
+    "oid": "efbecd2e41799bf09406514e2ff62b9241f2f6d0"
+  },
+  "wagura-maurice/odk-middleman": {
+    "added": 7617,
+    "deleted": 372,
+    "oid": "32ca2623491b083aacd269b2a827a26ab046619b"
+  },
+  "wagura-maurice/odk-wash": {
+    "added": 130695,
+    "deleted": 39697,
+    "oid": "e51343133f1f0ff166c3bdd099384fa5faff06b5"
+  },
+  "wagura-maurice/odoo-adms-app": {
+    "added": 2854,
+    "deleted": 322,
+    "oid": "8699d294c17c5f1cd260214afa9107adc60e5812"
+  },
+  "wagura-maurice/odoo-adms-cloudflare-worker-app": {
+    "added": 6661,
+    "deleted": 3242,
+    "oid": "c9b1b0253d5be83c53b6bdce65390725f57048ce"
+  },
+  "wagura-maurice/ollmh": {
+    "added": 862975,
+    "deleted": 13490,
+    "oid": "54cb4b35d0f3586e9565b96f02c12e909e7afab6"
+  },
+  "wagura-maurice/ollmh-wayback-snapshot": {
+    "added": 69622,
+    "deleted": 26741,
+    "oid": "99dbb50684afaa8718b0f43d0bb5eb47dc829285"
+  },
+  "wagura-maurice/orbit-reconnaissance": {
+    "added": 41258,
+    "deleted": 377,
+    "oid": "3132ca267b0566c59b670f57ff73a2c35b5d2e50"
+  },
+  "wagura-maurice/palantir_ya_kenya": {
+    "added": 538,
+    "deleted": 49,
+    "oid": "86c39710916849292ca110ae271e402462e62757"
+  },
+  "wagura-maurice/passport": {
+    "added": 12091,
+    "deleted": 56,
+    "oid": "e90eabc81be51428a92fbe284b9a0eaa5b9c497d"
+  },
+  "wagura-maurice/payments": {
+    "added": 12213,
+    "deleted": 27,
+    "oid": "5e10193895ccb38a65af7ec80447f28d25140003"
+  },
+  "wagura-maurice/pkg": {
+    "added": 20560,
+    "deleted": 8150,
+    "oid": "166a66d07f75b9d0b4558b6eecb34e3636cc1b9b"
+  },
+  "wagura-maurice/playwright-bot": {
+    "added": 0,
+    "deleted": 0,
+    "oid": "9a54b597924ff9b509947d54fc9bdb1edffb5b2b"
+  },
+  "wagura-maurice/pls": {
+    "added": 10540,
+    "deleted": 0,
+    "oid": "8173d065a8a28d680097358cb8a24d61d664a919"
+  },
+  "wagura-maurice/postiz": {
+    "added": 0,
+    "deleted": 0,
+    "oid": "19b75bca2e5517ea4628fc08f8b2b4c4f3a57f66"
+  },
+  "wagura-maurice/project_weather_pwa": {
+    "added": 48461,
+    "deleted": 11144,
+    "oid": "94e2586d819df7f98a6b862bc8ea3b46dc2c2fa1"
+  },
+  "wagura-maurice/psilocybin": {
+    "added": 0,
+    "deleted": 0,
+    "oid": "dab35806f85904a124601223fa602fe2a79640d8"
+  },
+  "wagura-maurice/psql_csv": {
+    "added": 196648,
+    "deleted": 65533,
+    "oid": "187c65c6aa1304ab307d39acaae7215207370c0f"
+  },
+  "wagura-maurice/psychic": {
+    "added": 8483,
+    "deleted": 74,
+    "oid": "cb2e821d0ae787bc0874a9c1de9c023690868058"
+  },
+  "wagura-maurice/rWash": {
+    "added": 450140,
+    "deleted": 298183,
+    "oid": "086500c0bf006493fcfeccfa7e791ef8847b68d1"
+  },
+  "wagura-maurice/rWashV5.3": {
+    "added": 141455,
+    "deleted": 0,
+    "oid": "d6cced07d5c2e400f56bd5016a3d4e1ee14e270a"
+  },
+  "wagura-maurice/rcmrd": {
+    "added": 2642,
+    "deleted": 246,
+    "oid": "508a53da12cc9e99ee31292ccda3360992cd013e"
+  },
+  "wagura-maurice/rent": {
+    "added": 130470,
+    "deleted": 2461,
+    "oid": "d3a10da514ceea74c10eefe75bfe4391331ae5b6"
+  },
+  "wagura-maurice/rw-egranary": {
+    "added": 54895,
+    "deleted": 21140,
+    "oid": "abe2e723943988971c81843e4a24938d348c27b6"
+  },
+  "wagura-maurice/rware": {
+    "added": 385808,
+    "deleted": 124568,
+    "oid": "2f992ab86433bc8ea5568a25fc3e4af74a4d4f80"
+  },
+  "wagura-maurice/sapper": {
+    "added": 852,
+    "deleted": 0,
+    "oid": "09f34cfb0e20417ab9ac1e4eca9c9bc6cb86db36"
+  },
+  "wagura-maurice/scms": {
+    "added": 263396,
+    "deleted": 2174,
+    "oid": "a5b198ffee48b0c57a5e1ff5094daf8340da3e76"
+  },
+  "wagura-maurice/score": {
+    "added": 136269,
+    "deleted": 134646,
+    "oid": "5733b3df108b3b7a41569ecd07e0ce57a164073e"
+  },
+  "wagura-maurice/send-eml": {
+    "added": 1933,
+    "deleted": 62,
+    "oid": "1c26ffa9ff9cc81000524c081f69e60773db168e"
+  },
+  "wagura-maurice/shamiri-institute-interview": {
+    "added": 1,
+    "deleted": 0,
+    "oid": "b5796472ca9ebe32dc18ce8d09616e36fe9b7ac1"
+  },
+  "wagura-maurice/silver-enigma": {
+    "added": 3536,
+    "deleted": 0,
+    "oid": "7c2c1955d6add92454c9bd6bfd52b42344de6b8c"
+  },
+  "wagura-maurice/soko_baridi": {
+    "added": 9,
+    "deleted": 0,
+    "oid": "a5bb1099d64a7559ed2128bedae241bfe50f6dc5"
+  },
+  "wagura-maurice/solid-adventure": {
+    "added": 27761,
+    "deleted": 1838,
+    "oid": "1fc7cc06682e18412837904d60473935a2bbe6f6"
+  },
+  "wagura-maurice/springs": {
+    "added": 122072,
+    "deleted": 86698,
+    "oid": "6bc62952e0f75300d20adb9dd72e3c4f6a35329f"
+  },
+  "wagura-maurice/square1": {
+    "added": 381807,
+    "deleted": 60153,
+    "oid": "8f76210a8b24383d9990a84ede1186ed4a85f541"
+  },
+  "wagura-maurice/squirrel": {
+    "added": 11222,
+    "deleted": 0,
+    "oid": "b49161b9f7eb5b1d83a45a5e3bda022aa69902e6"
+  },
+  "wagura-maurice/supabase-starter": {
+    "added": 8081,
+    "deleted": 0,
+    "oid": "f59cb33fde7723b4ff799ff7b97b407020928bc1"
+  },
+  "wagura-maurice/syncretism": {
+    "added": 698,
+    "deleted": 3,
+    "oid": "96bd38419eed6035be3124d37c824c8955d6da31"
+  },
+  "wagura-maurice/tabis": {
+    "added": 390328,
+    "deleted": 35168,
+    "oid": "1708a1d17354caf81f210410566ef43806ffc775"
+  },
+  "wagura-maurice/tabis-importer": {
+    "added": 11873,
+    "deleted": 24,
+    "oid": "42381e5e01e3dc6c9074332e96fd4f50118858ff"
+  },
+  "wagura-maurice/telegram-bot-worker": {
+    "added": 7527,
+    "deleted": 370,
+    "oid": "76da58222690193da9c184984af30b61ca91128d"
+  },
+  "wagura-maurice/telegram_ai_reply": {
+    "added": 187,
+    "deleted": 28,
+    "oid": "68ee0de8a379ed46358a802c1f81a639125bbda3"
+  },
+  "wagura-maurice/tent": {
+    "added": 1339433,
+    "deleted": 5,
+    "oid": "7a2886980a5ef78d03257197c5038b22ab98d221"
+  },
+  "wagura-maurice/the4400": {
+    "added": 28343,
+    "deleted": 0,
+    "oid": "b9ccddeccd6a9db379e11b5e7dd3ae38a5edad7e"
+  },
+  "wagura-maurice/trading-bot": {
+    "added": 0,
+    "deleted": 0,
+    "oid": "148e2beed414f45722601ebb76ed81533a940d6e"
+  },
+  "wagura-maurice/tundatamu": {
+    "added": 19188,
+    "deleted": 96,
+    "oid": "f5b99a09af48d8aea14d71152f01e4eac4fb5c6d"
+  },
+  "wagura-maurice/twitter-bot": {
+    "added": 61103,
+    "deleted": 5424,
+    "oid": "eafb1ae29183fee77fbf1a17864aabd9929a38e0"
+  },
+  "wagura-maurice/ujeuri": {
+    "added": 1,
+    "deleted": 0,
+    "oid": "ccf1253fdc55fdfc04a9211b32b5559e06e130b5"
+  },
+  "wagura-maurice/upscale": {
+    "added": 328797,
+    "deleted": 86995,
+    "oid": "99a6c10ef2b822fe70008ee5ac6a40d9ae0e9e57"
+  },
+  "wagura-maurice/urvogel": {
+    "added": 0,
+    "deleted": 0,
+    "oid": "47f9e77301d3f22eac9134c7002ec1aa4ff21c95"
+  },
+  "wagura-maurice/vanilla_mpesa_push_stk": {
+    "added": 87751,
+    "deleted": 2,
+    "oid": "96711cf3e462732a65c3e39938637107ce075d9d"
+  },
+  "wagura-maurice/versatile-logistics": {
+    "added": 0,
+    "deleted": 0,
+    "oid": "8993013ed75536ffee05fac437eaa1c0f3e0d23a"
+  },
+  "wagura-maurice/voter-data-scraper": {
+    "added": 4788,
+    "deleted": 148,
+    "oid": "f3b10d926d447eed4eae2852501fac417549d918"
+  },
+  "wagura-maurice/voter-verify": {
+    "added": 43226,
+    "deleted": 6968,
+    "oid": "5137925fd25e181f82ae3e9bc7a15087ed56f956"
+  },
+  "wagura-maurice/wagura-maurice": {
+    "added": 1424,
+    "deleted": 631,
+    "oid": "3f3aa59828592964abfeaa558bdf25092f8766d3"
+  },
+  "wagura-maurice/waguramaurice.com": {
+    "added": 118909,
+    "deleted": 115,
+    "oid": "ab3f4fce41965e69534e7f2e9f8667106a5099e4"
+  },
+  "wagura-maurice/wardwatch2027": {
+    "added": 263675,
+    "deleted": 50565,
+    "oid": "a51bebff95e8b02fd2d3dd714c0be7a7ee5f0f9e"
+  },
+  "wagura-maurice/wash": {
+    "added": 0,
+    "deleted": 0,
+    "oid": "ed129c96eb2534ecd13e4fa74268b9f98888c734"
+  },
+  "wagura-maurice/waterfront": {
+    "added": 500054,
+    "deleted": 66829,
+    "oid": "715b3dd23acb2fc3ac2403084bb52654a2176de9"
+  },
+  "wagura-maurice/xdk": {
+    "added": 85215,
+    "deleted": 92,
+    "oid": "418973f3ecd751c15e7055d1b48f5b943f548c01"
+  },
+  "wagura-maurice/xrp_kasongo_cto": {
+    "added": 21175,
+    "deleted": 669,
+    "oid": "bec4e37aca8acda11c2c046e7be560908aa341f1"
+  },
+  "wagura-maurice/yardstick": {
+    "added": 1509,
+    "deleted": 0,
+    "oid": "9f119b34b6c4c9450d2451396f5b5490cf838616"
+  }
+}
