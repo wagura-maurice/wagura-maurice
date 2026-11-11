@@ -275,9 +275,12 @@ M-Pesa (Safaricom) & MTN mobile money integration • Low-bandwidth mobile-first
   <img src="https://raw.githubusercontent.com/wagura-maurice/wagura-maurice/main/assets/activity.svg" width="100%" alt="Live activity card — regenerated nightly by GitHub Actions" />
 </p>
 
-## 🐍 Contribution Snake
+## 👾 Contribution Board
 
-![Snake animation](https://raw.githubusercontent.com/wagura-maurice/wagura-maurice/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wagura-maurice/wagura-maurice/main/pacman_dark.svg">
+  <img alt="Pac-Man eating my contribution graph" width="100%" src="https://raw.githubusercontent.com/wagura-maurice/wagura-maurice/main/pacman_light.svg">
+</picture>
 
 ---
 
