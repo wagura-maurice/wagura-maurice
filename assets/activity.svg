@@ -32,11 +32,11 @@
     <rect x="607" y="19" width="8" height="8" rx="1.5" fill="#EC4899" opacity="0.2"/>
     <rect x="618" y="19" width="8" height="8" rx="1.5" fill="#EC4899" opacity="0.2"/>
     <rect x="629" y="19" width="8" height="8" rx="1.5" fill="#EC4899" opacity="0.2"/>
-    <rect x="640" y="19" width="8" height="8" rx="1.5" fill="#EC4899" opacity="0.2"/>
-    <rect x="651" y="19" width="8" height="8" rx="1.5" fill="#EC4899" opacity="0.5"/>
+    <rect x="640" y="19" width="8" height="8" rx="1.5" fill="#EC4899" opacity="0.5"/>
+    <rect x="651" y="19" width="8" height="8" rx="1.5" fill="#EC4899" opacity="0.2"/>
     <rect x="662" y="19" width="8" height="8" rx="1.5" fill="#EC4899" opacity="0.2"/>
-    <rect x="673" y="19" width="8" height="8" rx="1.5" fill="#EC4899" opacity="0.2"/>
-    <rect x="684" y="19" width="8" height="8" rx="1.5" fill="#EC4899" opacity="1.0"/>
+    <rect x="673" y="19" width="8" height="8" rx="1.5" fill="#EC4899" opacity="1.0"/>
+    <rect x="684" y="19" width="8" height="8" rx="1.5" fill="#EC4899" opacity="0.2"/>
     <rect x="695" y="19" width="8" height="8" rx="1.5" fill="#EC4899" opacity="0.2"/>
     <rect x="706" y="19" width="8" height="8" rx="1.5" fill="#EC4899" opacity="0.2"/>
     <rect x="717" y="19" width="8" height="8" rx="1.5" fill="#EC4899" opacity="0.2"/>
@@ -73,5 +73,5 @@
   <rect x="220" y="266" width="34" height="10" rx="5" fill="#CF54FC"/>
   <text x="630" y="276" class="mono" fill="#777">2 events</text>
 
-  <text x="407" y="330" class="sans cap" text-anchor="middle">Generated 2026-11-11 04:14 UTC from live GitHub events</text>
+  <text x="407" y="330" class="sans cap" text-anchor="middle">Generated 2026-11-12 05:25 UTC from live GitHub events</text>
 </svg>
