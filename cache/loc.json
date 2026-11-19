@@ -759,6 +759,11 @@
     "deleted": 27,
     "oid": "51f09537aa31a1f59e36abad9efa57d4a3645f40"
   },
+  "wagura-maurice/meth_3js": {
+    "added": 0,
+    "deleted": 0,
+    "oid": "af31d3ab08fac902a9e2e2b07ab94fd4d699ec28"
+  },
   "wagura-maurice/microfinance": {
     "added": 2024,
     "deleted": 48,
@@ -1150,9 +1155,9 @@
     "oid": "5137925fd25e181f82ae3e9bc7a15087ed56f956"
   },
   "wagura-maurice/wagura-maurice": {
-    "added": 1557,
-    "deleted": 756,
-    "oid": "86a444dc6ded3c7ff7c4395c74fb2f0e116d9b01"
+    "added": 1594,
+    "deleted": 813,
+    "oid": "0e577a87f83c86e83545bf112ffa18e340bf60cb"
   },
   "wagura-maurice/waguramaurice.com": {
     "added": 118909,
