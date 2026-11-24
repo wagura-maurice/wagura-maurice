@@ -254,6 +254,11 @@
     "deleted": 4,
     "oid": "3b8a56673733f9801bf1f575c407d1d3b13e20ec"
   },
+  "wagura-maurice/ccru_numogram": {
+    "added": 98,
+    "deleted": 0,
+    "oid": "cbdd860df5c0c6cf91161d501936d7c65d43a0fe"
+  },
   "wagura-maurice/cert_vatzac": {
     "added": 24158,
     "deleted": 0,
@@ -762,7 +767,7 @@
   "wagura-maurice/meth_3js": {
     "added": 0,
     "deleted": 0,
-    "oid": "951ef2b8bdeedd3a0cd5d74970bfe4e167621512"
+    "oid": "6f56c0fd47bac923e56c32e416d80f940e3928b0"
   },
   "wagura-maurice/microfinance": {
     "added": 2024,
@@ -1155,9 +1160,9 @@
     "oid": "5137925fd25e181f82ae3e9bc7a15087ed56f956"
   },
   "wagura-maurice/wagura-maurice": {
-    "added": 1720,
-    "deleted": 934,
-    "oid": "a6f4157cb68c7b680d7b63bedfaf3a39fa8c8e73"
+    "added": 1745,
+    "deleted": 955,
+    "oid": "f5550c6637d5e37ee9c849d845bf9c319be92c41"
   },
   "wagura-maurice/waguramaurice.com": {
     "added": 118909,
