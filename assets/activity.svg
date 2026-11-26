@@ -18,29 +18,29 @@
     <rect x="453" y="19" width="8" height="8" rx="1.5" fill="#EC4899" opacity="0.2"/>
     <rect x="464" y="19" width="8" height="8" rx="1.5" fill="#EC4899" opacity="0.2"/>
     <rect x="475" y="19" width="8" height="8" rx="1.5" fill="#EC4899" opacity="0.2"/>
-    <rect x="486" y="19" width="8" height="8" rx="1.5" fill="#EC4899" opacity="0.2"/>
-    <rect x="497" y="19" width="8" height="8" rx="1.5" fill="#EC4899" opacity="0.5"/>
+    <rect x="486" y="19" width="8" height="8" rx="1.5" fill="#EC4899" opacity="0.5"/>
+    <rect x="497" y="19" width="8" height="8" rx="1.5" fill="#EC4899" opacity="0.2"/>
     <rect x="508" y="19" width="8" height="8" rx="1.5" fill="#EC4899" opacity="0.2"/>
-    <rect x="519" y="19" width="8" height="8" rx="1.5" fill="#EC4899" opacity="0.2"/>
-    <rect x="530" y="19" width="8" height="8" rx="1.5" fill="#EC4899" opacity="1.0"/>
+    <rect x="519" y="19" width="8" height="8" rx="1.5" fill="#EC4899" opacity="1.0"/>
+    <rect x="530" y="19" width="8" height="8" rx="1.5" fill="#EC4899" opacity="0.2"/>
     <rect x="541" y="19" width="8" height="8" rx="1.5" fill="#EC4899" opacity="0.2"/>
     <rect x="552" y="19" width="8" height="8" rx="1.5" fill="#EC4899" opacity="0.2"/>
     <rect x="563" y="19" width="8" height="8" rx="1.5" fill="#EC4899" opacity="0.2"/>
-    <rect x="574" y="19" width="8" height="8" rx="1.5" fill="#EC4899" opacity="0.2"/>
-    <rect x="585" y="19" width="8" height="8" rx="1.5" fill="#EC4899" opacity="0.6"/>
+    <rect x="574" y="19" width="8" height="8" rx="1.5" fill="#EC4899" opacity="0.6"/>
+    <rect x="585" y="19" width="8" height="8" rx="1.5" fill="#EC4899" opacity="0.2"/>
     <rect x="596" y="19" width="8" height="8" rx="1.5" fill="#EC4899" opacity="0.2"/>
     <rect x="607" y="19" width="8" height="8" rx="1.5" fill="#EC4899" opacity="0.2"/>
     <rect x="618" y="19" width="8" height="8" rx="1.5" fill="#EC4899" opacity="0.2"/>
     <rect x="629" y="19" width="8" height="8" rx="1.5" fill="#EC4899" opacity="0.2"/>
     <rect x="640" y="19" width="8" height="8" rx="1.5" fill="#EC4899" opacity="0.2"/>
     <rect x="651" y="19" width="8" height="8" rx="1.5" fill="#EC4899" opacity="0.2"/>
-    <rect x="662" y="19" width="8" height="8" rx="1.5" fill="#EC4899" opacity="0.2"/>
-    <rect x="673" y="19" width="8" height="8" rx="1.5" fill="#EC4899" opacity="0.8"/>
-    <rect x="684" y="19" width="8" height="8" rx="1.5" fill="#EC4899" opacity="0.2"/>
+    <rect x="662" y="19" width="8" height="8" rx="1.5" fill="#EC4899" opacity="0.8"/>
+    <rect x="673" y="19" width="8" height="8" rx="1.5" fill="#EC4899" opacity="0.2"/>
+    <rect x="684" y="19" width="8" height="8" rx="1.5" fill="#EC4899" opacity="0.4"/>
     <rect x="695" y="19" width="8" height="8" rx="1.5" fill="#EC4899" opacity="0.4"/>
     <rect x="706" y="19" width="8" height="8" rx="1.5" fill="#EC4899" opacity="0.4"/>
-    <rect x="717" y="19" width="8" height="8" rx="1.5" fill="#EC4899" opacity="0.4"/>
-    <rect x="728" y="19" width="8" height="8" rx="1.5" fill="#EC4899" opacity="0.5"/>
+    <rect x="717" y="19" width="8" height="8" rx="1.5" fill="#EC4899" opacity="0.5"/>
+    <rect x="728" y="19" width="8" height="8" rx="1.5" fill="#EC4899" opacity="0.2"/>
     <rect x="739" y="19" width="8" height="8" rx="1.5" fill="#EC4899" opacity="0.2"/>
 
   <rect x="20" y="60" width="250" height="125" rx="8" fill="rgba(255,255,255,0.03)" stroke="rgba(255,255,255,0.12)"/>
@@ -76,5 +76,5 @@
   <rect x="220" y="292" width="40" height="10" rx="5" fill="#FF7A35"/>
   <text x="630" y="302" class="mono" fill="#777">3 events</text>
 
-  <text x="407" y="330" class="sans cap" text-anchor="middle">Generated 2026-11-25 06:36 UTC from live GitHub events</text>
+  <text x="407" y="330" class="sans cap" text-anchor="middle">Generated 2026-11-26 06:27 UTC from live GitHub events</text>
 </svg>
