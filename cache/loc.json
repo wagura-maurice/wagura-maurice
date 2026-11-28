@@ -680,9 +680,9 @@
     "oid": "c50f9d6594828b6d29977b49e67391007e5b02fa"
   },
   "wagura-maurice/ke-msisdn-validator": {
-    "added": 1853,
-    "deleted": 23,
-    "oid": "dbf0250613ba1a0a5899a424606db7a6bda85adf"
+    "added": 2130,
+    "deleted": 34,
+    "oid": "0be4b59ca84d0b34bddad02249d270214054efd2"
   },
   "wagura-maurice/kubernetes": {
     "added": 3876471,
@@ -1160,9 +1160,9 @@
     "oid": "5137925fd25e181f82ae3e9bc7a15087ed56f956"
   },
   "wagura-maurice/wagura-maurice": {
-    "added": 1826,
-    "deleted": 1019,
-    "oid": "439674c9103736de59f3429d2f1bee4aa587ab5e"
+    "added": 1850,
+    "deleted": 1039,
+    "oid": "126d4992d7b0d35d4f53d8102b474aabd32e0326"
   },
   "wagura-maurice/waguramaurice.com": {
     "added": 118909,
